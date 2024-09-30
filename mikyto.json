@@ -1621,3 +1621,6 @@ http://181.78.27.128:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU",PANAMERICANA
 http://181.78.27.128:8000/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PELICULAS",PANAMERICANA
+http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/38848.mkv
