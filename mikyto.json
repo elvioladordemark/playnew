@@ -1,31 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia800302.us.archive.org/13/items/logonetplayor-2/LOGONETPLAYOR2.png" ,NETPLAY HD 🇵🇾
-https://tv.streamcasthd.com:3105/live/netplaylive.m3u8
-
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia804608.us.archive.org/16/items/logodeportes_202405/logodeportes.png" ,DEPORTES PY HD 🇵🇾
 http://181.78.27.128:8000/play/a061
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://iptv.com.py/tv/players/logos/rcc.png" ,RCC HD 🇵🇾
-https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/playlist.m3u8
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://iptv.com.py/tv/players/logos/radioconcierto.jpg" ,SOMOS DEL ESTE 🇵🇾
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://iptv.com.py/tv/players/logos/villaelisa.jpg" ,VILLA ELISA TV 🇵🇾
-https://59ce1298bfb98.streamlock.net/villaelisa/villaelisa/playlist.m3u8
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://iptv.com.py/tv/players/logos/tvaire.jpg" ,TVA 🇵🇾
-https://59ce1298bfb98.streamlock.net:443/tvaire/tvaire/playlist.m3u8
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://iptv.com.py/tv/players/logos/obedira.png" ,OVEDIRA TV 🇵🇾
-https://59ce1298bfb98.streamlock.net:443/obediratv/obediratv/playlist.m3u8
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://iptv.com.py/tv/players/logos/sucesotv.png" ,SUCESO TV 🇵🇾
-https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/playlist.m3u8
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://iptv.com.py/tv/players/logos/oviedotv2.jpg" ,OVIEDO TV 🇵🇾
-https://59ce1298bfb98.streamlock.net:443/oviedotv/oviedotv/playlist.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.imgur.com/hG6vqBO.png" ,ABC_TV 🇵🇾
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=750000.m3u8
