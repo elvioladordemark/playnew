@@ -5,12 +5,6 @@ http://181.78.27.128:8000/play/a061
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.imgur.com/hG6vqBO.png" ,ABC_TV 🇵🇾
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=750000.m3u8
 
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" ,CENTRAL TV 🇵🇾
-https://ssh101.bozztv.com/ssh101/centraltv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" ,CENTRAL 2 🇵🇾
-https://ssh101.bozztv.com/ssh101/pedrodj/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://cabletvhd.xyz/img/unicanal.png" group-title="PARAGUAY", Unicanal 🇵🇾
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
@@ -18,9 +12,6 @@ https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/VENUSMEDIA/EXPORTACION_WEB/SS/VENUSMEDIA_t-290x163.png" group-title="PARAGUAY", VENUS Media 🇵🇾
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=7231223d06a7bf24e813ba95d9e6de5c9bbed7617ae3b3e6e58c70713e0fa6b0&exp=1710990940
-
-#EXTINF:-1   tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/ecristal.png" group-title="PARAGUAY", Estacion_Cristal 🇵🇾
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/gen.png" ,GEN_TV 🇵🇾
 #EXTVLCOPT:network-caching=1000
