@@ -183,7 +183,7 @@ https://edge-live02-bel.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2H
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 https://edge-live02-bel.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/JzMEf48.png" ,ESPN_3 🇦🇷
+#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://i.imgur.com/JzMEf48.png" ,ESPN_3 🇦🇷
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
