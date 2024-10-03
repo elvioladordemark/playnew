@@ -239,3 +239,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
+
+#EXTINF:-1 group-title="DEPORTES BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" ,SPORTV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://sportscdn.net/hls/sportv.m3u8%7CReferer=https://vivolixopano.com/
