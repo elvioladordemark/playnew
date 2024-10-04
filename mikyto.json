@@ -292,7 +292,7 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/Fox
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
 
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/fs3.png" ,Fox Sports 33 🇲🇽
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/fs3.png" ,Fox Sports 333 🇲🇽
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
