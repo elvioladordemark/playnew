@@ -1,247 +1,71 @@
-#EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-
-#EXTINF:-1 group-title="🏆 TIGO SPORTS EVENTOS" tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" ,TIGO EVENTOS 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTINF:-1 group-title="🏆 TIGO SPORTS EVENTOS" tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" ,TIGO EVENTOS 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
-
-#EXTINF:-1 group-title="🏆 TIGO SPORTS EVENTOS" tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" ,TIGO EVENTOS 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO SPORTS EN VIVO E INTERMEDIA", TIGO EN VIVO 1
-http://181.78.27.128:8000/play/a060
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO SPORTS EN VIVO E INTERMEDIA", TIGO EN VIVO PLUS
-http://181.78.27.128:8000/play/a061
-
-#EXTINF:-1 group-title="EVENTOS FLOW MUSIC" tvg-logo="https://i.ibb.co/jhrG266/flow-music.png" ,FLOW MUSIC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
-
-#EXTINF:-1 group-title="EVENTOS FLOW MUSIC" tvg-logo="https://i.ibb.co/WD5sH68/flow-music-2.png" ,FLOW MUSIC 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
-https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
-
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.imgur.com/hG6vqBO.png" ,ABC_TV 🇵🇾
-https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=750000.m3u8
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/Wb6FqkCR/Unicanal.webp" group-title="PARAGUAY", UNICANAL 🇵🇾
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
-
-
-#EXTINF:-1   tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/VENUSMEDIA/EXPORTACION_WEB/SS/VENUSMEDIA_t-290x163.png" group-title="PARAGUAY", VENUS Media 🇵🇾
-https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=7231223d06a7bf24e813ba95d9e6de5c9bbed7617ae3b3e6e58c70713e0fa6b0&exp=1710990940
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/gen.png" ,GEN_TV 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-https://edge03-cde-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://a-qiio.onrender.com/webp/logos/latele.webp" ,LA_TELE 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
-https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
-
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/surtv.png" , SUR_TV 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
-https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://a-qiio.onrender.com/webp/logos/optimized/telefuturo.webp" ,TELEFUTURO 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
-https://edge-live16-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://a-qiio.onrender.com/webp/logos/paravision.webp" ,PARAVISION 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
-https://edge-live16-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://a-qiio.onrender.com/webp/logos/optimized/trecepy.webp" ,RPC 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-https://edge-live16-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.imgur.com/n5m81I8.png" ,NOTICIAS_PY 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
-https://edge-live16-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
-
-
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-id="canal-9-snt.py" tvg-logo="https://i.imgur.com/0GcC89d.png" ,PY | SNT 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-https://edge-live17-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
-
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.imgur.com/D0yQ82J.png" ,C9N 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
-https://edge-live17-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
-
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/farra.png" ,FARRA_PLAY 🇵🇾
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-http://159.203.148.226/live/farra_src.m3u8
-
-#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://a-qiio.onrender.com/webp/logos/espn.webp" ,ESPN 🇦🇷
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://edge-live02-bel.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
-
-#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://i.imgur.com/lVPHs3M.png" ,ESPN_2 🇦🇷
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-https://edge-live02-bel.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
-
-#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://i.imgur.com/JzMEf48.png" ,ESPN_3 🇦🇷
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-https://edge-live02-bel.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
-
-#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/espn4.png" ,ESPN_4 🇦🇷
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
-
-#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" ,ESPN_5 🇦🇷
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
-
-#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" ,ESPN_6 🇦🇷
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd
-
-#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" ,ESPN_7 🇦🇷
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
-
-#EXTINF:-1 group-title="DEPORTES BRASIL🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" ,SPORTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://embedflix.co/"
-https://anonmedia.eu/tnt/index.m3u8%7CReferer=https://jalynrabei.com/
-
+{
+  "categories": [
+    {
+      "name": "Sample Basic",
+      "channels": [
+        {
+          "name": "Channel Basic",
+          "stream_url": "https://.../basic.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Sample with DRM",
+      "channels": [
+        {
+          "name": "Channel ClearKey",
+          "drm_id": "drm_ck",
+          "stream_url": "https://.../clearkey.mpd"
+        },
+        {
+          "name": "Channel Widevine",
+          "drm_id": "drm_wv",
+          "stream_url": "https://.../widevine.mpd"
+        },
+        {
+          "name": "Channel PlayReady",
+          "drm_id": "drm_pr",
+          "stream_url": "https://.../playready.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Sample with UserAgent & Referer",
+      "channels": [
+        {
+          "name": "Channel /w UserAgent",
+          "stream_url": "https://.../useragent.m3u8",
+          "user_agent": "VLCPlayer (Android 12)"
+        },
+        {
+          "name": "Channel /w Referer",
+          "stream_url": "https://.../referer.m3u8",
+          "referer": "https://..."
+        },
+        {
+          "name": "Channel /w UA+Referer",
+          "stream_url": "https://.../ua-referer.m3u8",
+          "user_agent": "VLCPlayer (Android 12)",
+          "referer": "https://..."
+        }
+      ]
+    }
+  ],
+  "drm_licenses": [
+    {
+      "drm_id": "drm_ck",
+      "drm_type": "clearkey",
+      "drm_key": "AAAABBBB:00001111"
+    },
+    {
+      "drm_id": "drm_wv",
+      "drm_type": "widevine",
+      "drm_key": "https://..."
+    },
+    {
+      "drm_id": "drm_pr",
+      "drm_type": "playready",
+      "drm_key": "https://..."
+    }
+  ]
+}
