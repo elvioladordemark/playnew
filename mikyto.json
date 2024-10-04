@@ -240,7 +240,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSp
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://a-qiio.onrender.com/webp/logos/fsportp.webp" ,ESPN_PREMIUM 🇦🇷
+#EXTINF:-1 group-title="DEPORTES espn" tvg-logo="https://a-qiio.onrender.com/webp/logos/fsportp.webp" ,ESPN_PREMIUM 🇦🇷
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -312,7 +312,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 
-#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/fs3.png" ,Fox Sports premiun 7
+#EXTINF:-1 group-title="FOX SPORTS" tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" ,Fox Sports premiun 7
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -321,3 +321,46 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+
+#EXTINF:-1 group-title="TYC SPORTS Y TNT SPORTS" tvg-logo="https://i.imgur.com/PfW2jhx.png" ,TyC Sport 🇦🇷
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+https://edge-live02-bel.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+
+
+#EXTINF:-1 group-title="TYC SPORTS Y TNT SPORTS" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 group-title="TYC SPORTS Y TNT SPORTS" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
+https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+
+
+#EXTINF:-1 group-title="TYC SPORTS Y TNT SPORTS" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+
+
+#EXTINF:-1 group-title="TYC SPORTS Y TNT SPORTS" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
+https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+
+
+#EXTINF:-1 group-title="TYC SPORTS Y TNT SPORTS" tvg-logo="https://i.ibb.co/vDZ6s6x/1200x630wa-removebg-preview.png" ,TyC Sport Play 🇦🇷
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+
+#EXTINF:-1 group-title="TYC SPORTS Y TNT SPORTS" tvg-logo="https://a-qiio.onrender.com/webp/logos/tntsport.webp" , TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+https://edge-live03-bel.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+
