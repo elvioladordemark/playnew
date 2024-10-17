@@ -3,9 +3,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $enlace = $_POST['enlace'];
     $categoria = $_POST['categoria'];
     $logo = $_POST['logo'];
-    $key = $_POST['key'];
+    $nombre = $_POST['nombre'];
+    $tieneClaves = $_POST['tieneClaves'];
 
-    $nuevoCanal = "#EXTINF:-1 group-title=\"$categoria\" tvg-logo=\"$logo\" ,Canal\n";
+    // Verificar si el canal tiene claves y usar la clave por defecto si no tiene
+    if ($tieneClaves === 'si') {
+        $key = $_POST['key'];
+    } else {
+        $key = "281037801971:192390910348"; // Clave por defecto
+    }
+
+    $nuevoCanal = "#EXTINF:-1 group-title=\"$categoria\" tvg-logo=\"$logo\" ,$nombre\n";
     $nuevoCanal .= "#EXTVLCOPT:network-caching=1000\n";
     $nuevoCanal .= "#EXTVLCOPT:http-user-agent=\"FireFox\"\n";
     $nuevoCanal .= "#EXTVLCOPT--http-reconnect=true\n";
