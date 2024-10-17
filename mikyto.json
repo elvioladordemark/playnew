@@ -435,14 +435,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 http://tv.iprotv.live/ProYeCtoX998/NuevaProyectoRw/1913.ts
 
 #EXTINF:-1 group-title="⚽ DEPORTES DIRECTV" tvg-logo="https://i.postimg.cc/L5MrJsXQ/images-4.jpg" ,DIRECTV 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=281037801971:192390910348
-http://tv.iprotv.live/ProYeCtoX998/NuevaProyectoRw/96714.ts
+
 
 #EXTINF:-1 group-title="⚽ DEPORTES DIRECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" ,DIRECTV PLUS
 #EXTVLCOPT:network-caching=1000
