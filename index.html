@@ -8,20 +8,62 @@
 </head>
 <body>
     <h1>Agregar Canal de TV</h1>
-    <form action="process.php" method="POST">
-        <label for="enlace">Enlace del Canal:</label><br>
+    <form id="canalForm" action="process.php" method="POST">
+        <label for="enlace">Enlace del Canal (m3u8):</label><br>
         <input type="text" id="enlace" name="enlace" required><br><br>
 
         <label for="categoria">Categoría del Canal:</label><br>
-        <input type="text" id="categoria" name="categoria" required><br><br>
+        <select id="categoria" name="categoria" required>
+            <option value="🏆 TIGO SPORTS EVENTOS">🏆 TIGO SPORTS EVENTOS</option>
+            <option value="📺 PELICULAS">📺 PELICULAS</option>
+            <option value="🎶 MUSICA">🎶 MUSICA</option>
+            <option value="🌎 NOTICIAS">🌎 NOTICIAS</option>
+            <option value="⚽ DEPORTES">⚽ DEPORTES</option>
+        </select><br><br>
 
         <label for="logo">Enlace del Logo del Canal:</label><br>
         <input type="text" id="logo" name="logo" required><br><br>
 
-        <label for="key">Clave del Canal:</label><br>
-        <input type="text" id="key" name="key" required><br><br>
+        <label for="nombre">Nombre del Canal:</label><br>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+
+        <label for="tieneClaves">¿El canal requiere claves?</label><br>
+        <select id="tieneClaves" name="tieneClaves" required>
+            <option value="si" selected>Sí</option>
+            <option value="no">No</option>
+        </select><br><br>
+
+        <div id="claveInput">
+            <label for="key">Clave del Canal:</label><br>
+            <input type="text" id="key" name="key" required><br><br>
+        </div>
 
         <button type="submit">Agregar Canal</button>
     </form>
+
+    <script>
+        // Función para mostrar/ocultar el campo de clave en función de la selección
+        function toggleClaveInput() {
+            var tieneClaves = document.getElementById('tieneClaves').value;
+            var claveInput = document.getElementById('claveInput');
+            var keyField = document.getElementById('key');
+
+            if (tieneClaves === 'si') {
+                claveInput.style.display = 'block';
+                keyField.required = true;
+            } else {
+                claveInput.style.display = 'none';
+                keyField.required = false;
+            }
+        }
+
+        // Inicializa la visibilidad del campo de clave al cargar la página
+        window.onload = function() {
+            toggleClaveInput(); // Llama a la función al cargar para ajustar la visibilidad inicial
+        };
+
+        // Agrega el event listener para cambiar la visibilidad del campo cuando cambie la selección
+        document.getElementById('tieneClaves').addEventListener('change', toggleClaveInput);
+    </script>
 </body>
 </html>
