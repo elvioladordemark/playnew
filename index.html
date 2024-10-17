@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Administración - Agregar Canal de TV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Agregar Canal de TV</h1>
+    <form action="process.php" method="POST">
+        <label for="enlace">Enlace del Canal:</label><br>
+        <input type="text" id="enlace" name="enlace" required><br><br>
+
+        <label for="categoria">Categoría del Canal:</label><br>
+        <input type="text" id="categoria" name="categoria" required><br><br>
+
+        <label for="logo">Enlace del Logo del Canal:</label><br>
+        <input type="text" id="logo" name="logo" required><br><br>
+
+        <label for="key">Clave del Canal:</label><br>
+        <input type="text" id="key" name="key" required><br><br>
+
+        <button type="submit">Agregar Canal</button>
+    </form>
+</body>
+</html>
