@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $nuevoCanal .= "#KODIPROP:inputstream.adaptive.license_key=$key\n";
     $nuevoCanal .= "$enlace\n";
 
-    $archivo = 'mikito.json';
+    $archivo = 'mikyto.json';
     file_put_contents($archivo, $nuevoCanal, FILE_APPEND | LOCK_EX);
 
     echo "Canal agregado correctamente.";
