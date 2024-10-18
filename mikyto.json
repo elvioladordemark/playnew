@@ -26,11 +26,11 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO SPORTS EN VIVO E INTERMEDIA", TIGO EN VIVO 1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO SPORTS EVENTOS INTERMEDIA", TIGO 1
 http://181.78.27.128:8000/play/a060
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO SPORTS EN VIVO E INTERMEDIA", TIGO EN VIVO PLUS
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO SPORTS EN VIVO E INTERMEDIA", TIGO PLUS
 http://181.78.27.128:8000/play/a061
 
 #EXTINF:-1 group-title="EVENTOS FLOW MUSIC" tvg-logo="https://i.ibb.co/jhrG266/flow-music.png" ,FLOW MUSIC
