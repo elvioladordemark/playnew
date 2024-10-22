@@ -18,15 +18,8 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO SPORTS EVENTOS INTERMEDIA", TIGO 1
 http://181.78.27.128:8000/play/a060
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO SPORTS EN VIVO E INTERMEDIA", TIGO PLUS
-http://181.78.27.128:8000/play/a061
-
 #EXTINF:-1 group-title="EVENTOS FLOW MUSIC" tvg-logo="https://i.ibb.co/jhrG266/flow-music.png" ,FLOW MUSIC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -47,12 +40,11 @@ https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_X
 #KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
 
-
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.imgur.com/hG6vqBO.png" ,ABC_TV 🇵🇾
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=750000.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/Wb6FqkCR/Unicanal.webp" group-title="PARAGUAY", UNICANAL 🇵🇾
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/J7D4QtH6/UNICANAL.jpg" group-title="PARAGUAY", UNICANAL 🇵🇾
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
 
