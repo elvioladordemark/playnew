@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd|Referer=https://www.tigosports.com.py
 
 #EXTINF:-1 group-title="🏆 TIGO SPORTS EVENTOS" tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" ,TIGO EVENTOS 2
 #EXTVLCOPT:network-caching=1000
