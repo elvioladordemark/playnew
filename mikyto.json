@@ -753,7 +753,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/H
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
 
-#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png", UNIVERSAL CINEMA
+#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/unicinema.png", UNIVERSAL CINEMA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -763,7 +763,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO
 #KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd
 
-#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9620/CH_LOGO/42891751076948.png", UNIVERSAL COMEDY
+#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/unicomedy.png", UNIVERSAL COMEDY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -773,7 +773,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universa
 #KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
 http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd
 
-#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9621/CH_LOGO/19452290076949.png", UNIVERSAL CRIME
+#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/unicrime.png", UNIVERSAL CRIME
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -783,7 +783,7 @@ http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_
 #KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d
 http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd
 
-#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9617/CH_LOGO/63649726076950.png", UNIVERSAL PREMIERE
+#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/unipremiere.png", UNIVERSAL PREMIERE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -793,17 +793,7 @@ http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_C
 #KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
 http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd
 
-#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9619/CH_LOGO/82170339076951.png", UNIVERSAL REALITY
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
-http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd
-
-    #EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://geo.mnedge.cvattv.com.ar:9002/images/9619/CH_LOGO/82170339076951.png", UNIVERSAL REALITY3
+#EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/unireality.png", UNIVERSAL REALITY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
