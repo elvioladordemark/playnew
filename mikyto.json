@@ -793,19 +793,19 @@ http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universa
 #KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
 http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd
 
- #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png", TL NOVELAS
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png", TL NOVELAS
 http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.postimg.cc/mk9PcHN1/horizontal-logo-rcn-mas-4-novelas-copy.jpg", RCN+
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.postimg.cc/mk9PcHN1/horizontal-logo-rcn-mas-4-novelas-copy.jpg", RCN+
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.postimg.cc/vBhdmSf1/channel-novelasturcas-16x9-1.jpg", NOVELAS TURCAS
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.postimg.cc/vBhdmSf1/channel-novelasturcas-16x9-1.jpg", NOVELAS TURCAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="http://static.tvar.io/imagenes/rcnovelas.png", RCN NOVELAS
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="http://static.tvar.io/imagenes/rcnovelas.png", RCN NOVELAS
 http://168.181.122.234:8000/play/a024/index.m3u8
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.ibb.co/jVMmjN6/descarga-8.png", TNT NOVELAS
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.ibb.co/jVMmjN6/descarga-8.png", TNT NOVELAS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -815,7 +815,7 @@ http://168.181.122.234:8000/play/a024/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
 https://edge-vod03-hr.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS MX
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS MX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -825,7 +825,7 @@ https://edge-vod03-hr.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png", PASIONES
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png", PASIONES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -835,11 +835,11 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Can
 #KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
 https://edge-live11-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://image.xumo.com/v1/channels/channel/99991749/600x337.webp?type=color_onBlack", TELEMUNDO ROMANCE
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://image.xumo.com/v1/channels/channel/99991749/600x337.webp?type=color_onBlack", TELEMUNDO ROMANCE
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991749/hls/master.m3u8?ads.xumo_channelId=99991749
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="http://imgfz.com/i/cuq0V9R.png", TELEMUNDO
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="http://imgfz.com/i/cuq0V9R.png", TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
 
-    #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.ibb.co/8xN76pJ/TV-Azteca-Corazn.png", AZ CORAZON
+#EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.ibb.co/8xN76pJ/TV-Azteca-Corazn.png", AZ CORAZON
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
