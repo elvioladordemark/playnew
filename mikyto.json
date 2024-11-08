@@ -31,6 +31,8 @@ https://vsd157.okcdn.ru:443/hls/7122866145891.m3u8/sig/4BbTs3VlVLg/expires/17311
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/KvRz68nk/IMG-20241108-WA0935.jpg" group-title="ÑANDEPORTETEPE TV Y SPORTS", ÑANDEPORTETEPE TV
 https://edge1-us-newyork.picarto.tv/stream/hls/golive%2bPlaytves/0_1/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="ÑANDEPORTETEPE TV Y SPORTS", ÑANDEPORTETEPE SPORTS
+https://edge1-us-newyork.picarto.tv/stream/hls/golive%2bGoltvpy/0_1/index.m3u8
 #EXTINF:-1 group-title="EVENTOS FLOW MUSIC" tvg-logo="https://i.ibb.co/WD5sH68/flow-music-2.png" ,FLOW MUSIC 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
