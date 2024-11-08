@@ -844,36 +844,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_7
 #EXTINF:-1 group-title="📺NOVELAS" tvg-logo="https://i.ibb.co/8xN76pJ/TV-Azteca-Corazn.png", AZ CORAZON
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME FILMS 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153 
-
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME ESPAÑOL 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649 
-
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME CINE Y SERIES 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152 
-
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME FAMILIA 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528 
-
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME TERROR 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
- 
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME ROMANCE 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532 
-
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME CRIMEN 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533 
-
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME COMEDIA 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551 
-
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME ACCION 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550 
-
-#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME BRASIL 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
 #EXTINF:-1 group-title="🌎CULTURA" tvg-logo="https://a-qiio.onrender.com/webp/logos/history.webp", HISTORY CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -1053,3 +1023,24 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Disc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME FILMS https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153 
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME ESPAÑOL https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649 
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME CINE Y SERIES https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152 
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME FAMILIA https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528 
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME TERROR https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+ 
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME ROMANCE https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532 
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME CRIMEN https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533 
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME COMEDIA https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551 
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME ACCION https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550 
+
+#EXTINF:-1 group-title="📺PLUTO TV" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60", RUNTIME BRASIL https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
