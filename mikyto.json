@@ -1380,4 +1380,12 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Disc
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
+#EXTINF:-1 group-title="ESTRENOS 2024" tvg-logo="https://i.postimg.cc/d0kqTDzC/IMG-20241103-WA1150.jpg", NO ENTRES 2024
+https://smulvad.ultranodo.skin/ko.php?path=edu/n03ntr3s.mp4&tokenauth=PAQvKnJLhGDTA2WvMdIjRFf50miEp7jJ1uigVpV7Di2
+
+#EXTINF:-1 group-title="ESTRENOS 2024" tvg-logo="https://i.postimg.cc/4NSqHwZ8/descarga-4.jpg", VENOM 2024
+https://smulvad.ultranodo.skin/ok.php?path=edu/v3n0m3.mp4&tokenauth=PAQvKnJLhGDTA2WvMdIjRFf50miEp7jJ1uigVpV7Di2
+
+#EXTINF:-1 group-title="ESTRENOS 2024" tvg-logo="https://i.postimg.cc/3RRBV3RD/descarga-2.jpg", TERRIFIER 3 2024
+https://mulvad.mxneta.click/ok.php?path=edu/Terrifier3.mp4&tokenauth=PAQvKnJLhGDTA2WvMdIjRFf50miEp7jJ1uigVpV7Di2
 
