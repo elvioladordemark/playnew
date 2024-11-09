@@ -194,6 +194,89 @@ https://edge-live17-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.m
 #KODIPROP:inputstream.adaptive.license_key=
 http://159.203.148.226/live/farra_src.m3u8
 
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/Vvy3Xch5/NUEVA-ERA.jpg", NUEVA ERA TV
+https://cdnhd.iblups.com/hls/VTS8RF7LHC.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/fTZ8nyvG/IMG-20241014-WA0354.jpg", TELEPORTAL TV
+https://cdnhd.iblups.com/hls/OIMUJDDSI9.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://yt3.googleusercontent.com/o1juQh7EOWuWghEcnuIJsMD5zUI0q6-Wx9vSJGpLmkiUEGY6KVQWch6ygzUqx8a18nTkf2aV=s900-c-k-c0x00ffffff-no-rj", ALMAYA TV PILAR
+https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg", MEGA TV  PY
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png?w=1000&ssl=1", ÑANDUTI TV
+https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/x1gwws1Q/misiontv.jpg", MISION TV DIGITAL
+https://fl1002.bozztv.com/ssh101/misiontvhd/index.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/5yCHGY5c/saltostv.jpg", SALTOS TV DIGITAL
+https://ssh101.bozztv.com/ssh101/redcanindeyu/chunks.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/QMQDq5RL/HEI.png", HEI TV 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e
+https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_EXTRA/Eventos_PY.mpd
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/tg57vW0V/tvs-encarnacion-en-vivo-online-funciona.jpg", TVS ENCARNACI\u00d3N
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvQFJzKcRcVwOdIYJyEYalfo-jxJUxIShSo2McYTa62rMUHyhSEMoobgY_TWisuSkqsF8VYSmxKqOBp_OB5J0021QgBafPu5J9Lj8WFlg73ld49oRbxrlCNJPFYPhwqiPKIKfiNUeLixeuwePCaIXa5kKBnucBFDLPBqEwCR0Oxr13d0_anYu7N4wbeznVb2FtQ4gkCWsUnq33Yn3AOqdYeDZLsSJkPKz3ktv1duXy-eFNLzEgAgzbWw5SbPTImmFrhU47pnQCpyQK95oCqc7QA5Ne2X1-CVXWzf69EVqc-t1Y6ISwmxxGebFQuGYXRaDINwF5XBS63LojRC0o9fwcK4PKrbB0jhMP2qn3TSheXzAVYxNgD1RsUh_q0Nm4fZ7qMA-vOa5OPI-vvENfsiBrZt_vrePHnVQLrumm2DvAnVq1vX0qmn6syzRFO6O13EFSs7v6kh6wCblOE8gLfQSStgMvMFqnOUpKhdQxWi-3RqfomPt1mC_QZkg6RjUIx6fGfW2glSRZ6SRTbW0UStk_jWpmdI0316hxVX6ndJSaIKXAq48MNDFDuzVmmPlzEE-EFLH-VnK54quqZAM5DAt8cJs8eU2QPn4gVvN-lP8w6hsWRG6znKBSOQwpkgFT4gDcUCI7xfoLLb3YSZmiJLVU_8eRg2v3_Q7nloA1NEskV-HJ4XZftckW5z6u3nS0Jp1OrRun99GkhPrRX4zLAtT_dtgzc42i-hXBrZchOPqAhmyfdZX9mDI1K230e81hm5EXgtQ6y7YBvH42eZPYbcbTi2br1fYWe-AfeE-HMKrPaI3KkBB0Z1XO2vh7DZgLHGtV4M-eRh4xzkaNX7KAU9SFqXgcJ6zxy9eJeGmaacnA_9W89pOKIDo4KAL19GMy_-LNu-ozOdz8sFJ3cHShvCBKLS-zJcyxAbBJLzXLJHkeZEydLWxnfhshSxWT0_NQ0xMUlSj7l_hk9Gw7Rd_S2_lPDIvbc2N-SwN0Hy8BIvmJu2wUgwKaYaGgyVTCIENtsU_Ro2JNggASoJZXUtd2VzdC0yMN8K.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png", MI TV
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/nrSXkZnY/descarga-2.png", UNIVERSO TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+https://edge-mix02-res.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png", REP\u00daBLICA TV
+https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/Y0GxD2Lq/IMG-20240626-194907-706-560x315.jpg", INVASIVA TV
+https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg", CANALPRO PY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/3ea2rcaxm4c73e1i4er7p/canalpro.json?rlkey=i4w63twvt8w66a1mx1fs4myr4&st=kie9io96&dl=0
+https://chromecast.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/Pg6v5zn/images.png", 5 DIAS PY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/s1b3862a8q8g2dp0t68lo/5dias.json?rlkey=jrma046phplkzdkkmmeymedmg&st=ffl1bilx&dl=0
+https://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/K8yF76wm/images-2.jpg", RTV
+https://video.medios.com.py:3585/multi_live/play.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/dGqjksf/descarga.png", ABC
+https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/9hqVmzy/descarga.png", UNION TV
+https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://a-qiio.onrender.com/webp/logos/espn.webp" ,ESPN 🇦🇷
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
