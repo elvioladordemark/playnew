@@ -1249,7 +1249,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.bragadotv.com.ar/images/custom/logo-social.jpg", BRAGADO TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
