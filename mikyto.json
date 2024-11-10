@@ -107,7 +107,7 @@ https://edge03-cde-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
-https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_wl/LA_TELE_C4.mpd
 
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/surtv.png" , SUR_TV 🇵🇾
