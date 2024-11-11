@@ -247,7 +247,7 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://edge-live02-bel.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
 #EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://i.imgur.com/lVPHs3M.png" ,ESPN_2 🇦🇷
 #EXTVLCOPT:network-caching=1000
