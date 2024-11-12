@@ -18,6 +18,8 @@ https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+#EXTINF:-1 group-title="TIGO EN VIVO PY" tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png",TIGO EN VIVO PY
+https://vsd209.okcdn.ru:443/hls/7139845802595.m3u8/sig/jXgmm6QG-6g/expires/1731512130783/srcIp/181.124.128.49/urls/45.136.20.57/clientType/1/srcAg/UNKNOWN_ANDROID/mid/7792548650595/7139845802595_high/index.m3u8
 
 #EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 1
 https://gucprez.online:9090/ESPNMX/tracks-v1a1/mono.m3u8
