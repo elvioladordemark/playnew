@@ -772,7 +772,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
-https://edge-live02-bel.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/paramount.webp", PARAMOUNT
 #EXTVLCOPT:network-caching=1000
