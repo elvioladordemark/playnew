@@ -82,8 +82,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=750000.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/J7D4QtH6/UNICANAL.jpg" group-title="PARAGUAY", UNICANAL 🇵🇾
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/J7D4QtH6/UNICANAL.jpg" group-title="PARAGUAY", UNICANAL 
+http://200.41.182.243:4145@chromecast.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd
 
 
 #EXTINF:-1   tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/VENUSMEDIA/EXPORTACION_WEB/SS/VENUSMEDIA_t-290x163.png" group-title="PARAGUAY", VENUS Media 🇵🇾
@@ -109,9 +109,6 @@ https://edge03-cde-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mp
 #KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
 https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
 
-
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/surtv.png" , SUR TV 
-http://200.41.182.243:4145@chromecast.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://a-qiio.onrender.com/webp/logos/optimized/telefuturo.webp" ,TELEFUTURO 🇵🇾
 #EXTVLCOPT:network-caching=1000
