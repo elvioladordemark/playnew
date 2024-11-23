@@ -679,15 +679,15 @@ https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
 https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
 
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/amc.webp", AMC
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/amc.webp", AMC HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
-https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
+#KODIPROP:inputstream.adaptive.license_key=35e7251476a9482a957e7abfed065f86:bf9a301292298a0fb6e81bf55f4817e8
+https://cdn.trimi.com.ar/live/sm-live/AMC/sa_live_dash/AMC.mpd
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/L6NV6Dy/720x540.jpg", A3SERIES
 #EXTVLCOPT:network-caching=1000
