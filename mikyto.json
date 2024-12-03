@@ -820,6 +820,9 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
 #KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
 https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd
 
+#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://a-qiio.onrender.com/webp/logos/hboplus.webp" ,HBO PLUS OPCIÓN 2
+https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10281.m3u8
+
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://a-qiio.onrender.com/webp/logos/optimized/hbomundi.webp" ,HBO MUNDI
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
