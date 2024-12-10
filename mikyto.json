@@ -820,7 +820,7 @@ https://edge1-eu-west.picarto.tv/stream/hls/golive%2bhboextreme/0_1/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://fudiosdjbd.great-site.net/api/results.php?keyid=b748b7e967884690956dd5ec1609c661&key=c3666ed5f172f2f890a775361587b7e3
+#KODIPROP:inputstream.adaptive.license_key=b748b7e967884690956dd5ec1609c661:c3666ed5f172f2f890a775361587b7e3
 https://cdn.trimi.com.ar/live/sm-live/HBO_FAMILY/sa_live_dash/HBO_FAMILY.mpd
 
 
@@ -831,7 +831,7 @@ https://cdn.trimi.com.ar/live/sm-live/HBO_FAMILY/sa_live_dash/HBO_FAMILY.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://fudiosdjbd.great-site.net/api/results.php?keyid=615dfe1b92f34ebd997209dfe8e74cb9&key=4ab6b3b7dd17d359d416647e8d88cdad
+#KODIPROP:inputstream.adaptive.license_key=615dfe1b92f34ebd997209dfe8e74cb9:4ab6b3b7dd17d359d416647e8d88cdad
 https://cdn.trimi.com.ar/live/sm-live/HBO_SIGNATURE/sa_live_dash/HBO_SIGNATURE.mpd
 
 
@@ -842,7 +842,7 @@ https://cdn.trimi.com.ar/live/sm-live/HBO_SIGNATURE/sa_live_dash/HBO_SIGNATURE.m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://fudiosdjbd.great-site.net/api/results.php?keyid=5134f76615764d4589041102d0cb07b2&key=9dab7bfba1dde7b86cbcabd39e82c2c7
+#KODIPROP:inputstream.adaptive.license_key=5134f76615764d4589041102d0cb07b2:9dab7bfba1dde7b86cbcabd39e82c2c7
 https://cdn.trimi.com.ar/live/sm-live/HBO_MUNDI/sa_live_dash/HBO_MUNDI.mpd
 
 
@@ -853,7 +853,7 @@ https://cdn.trimi.com.ar/live/sm-live/HBO_MUNDI/sa_live_dash/HBO_MUNDI.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://fudiosdjbd.great-site.net/api/results.php?keyid=58ded572926940b19e275d4956deda3c&key=a8018610386328f46738aa830453a6e2
+#KODIPROP:inputstream.adaptive.license_key=58ded572926940b19e275d4956deda3c:a8018610386328f46738aa830453a6e2
 https://cdn.trimi.com.ar/live/sm-live/HBO_PLUS/sa_live_dash/HBO_PLUS.mpd
 
 
@@ -864,9 +864,8 @@ https://cdn.trimi.com.ar/live/sm-live/HBO_PLUS/sa_live_dash/HBO_PLUS.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://fudiosdjbd.great-site.net/api/results.php?keyid=ffee0d78939a4986868b00752642e499&key=41f88782b5d24dbfa2903cf6b96cea36
+#KODIPROP:inputstream.adaptive.license_key=ffee0d78939a4986868b00752642e499:41f88782b5d24dbfa2903cf6b96cea36
 https://cdn.trimi.com.ar/live/sm-live/HBO_POP/sa_live_dash/HBO_POP.mpd
-
 
 
 #EXTINF:-1 group-title="📺PACK UNIVERSAL" tvg-logo="https://ia601307.us.archive.org/5/items/logs_chanrtv_202401/unicinema.png", UNIVERSAL CINEMA
