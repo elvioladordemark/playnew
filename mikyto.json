@@ -584,6 +584,20 @@ https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_wl/VTV_
 #KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
 https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
 
+#EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg", WARNER CHANNEL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c5cc73c9e6b4b8faf8e560093b011d8:ced4c396cf75c55b1cf68fb831bd1351
+https://cdn.trimi.com.ar/live/sm-live/WARNER/sa_live_dash/WARNER.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg", WARNER CHANNEL OPCION2
+https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10284.ts
+
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png", UNIVERSAL CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -591,8 +605,18 @@ https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0
 https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png", UNIVERSAL CHANNEL OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/tg3zfnztkc0yu2k74smpe/universal.json?rlkey=8l2azm48jv1gxqgcp401o6o9e&st=r3e97znf&dl=0
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10285.ts
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png", TCM
 #EXTVLCOPT:network-caching=1000
@@ -601,8 +625,11 @@ https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_en
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
-https://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
+#KODIPROP:inputstream.adaptive.license_key=5f973d766bdc4d4587652391f18dec64:db4e5f0587184f09a22f7b286bf54d4a
+https://cdn.trimi.com.ar/live/sm-live/TCM/sa_live_dash/TCM.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png", TCM OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10290.ts
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/s9JprFc/unnamed-7.jpg", STUDIO UNIVERSAL
 #EXTVLCOPT:network-caching=1000
@@ -611,8 +638,11 @@ https://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/vaags2sms02ehi6veyijo/studio.json?rlkey=q33llpgieu83rrph1uh0hoqzr&st=l704gomk&dl=0
 https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/s9JprFc/unnamed-7.jpg", STUDIO UNIVERSAL OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10270.ts
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png", CINECANAL
 #EXTVLCOPT:network-caching=1000
@@ -621,8 +651,11 @@ https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
-https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=a39970fe96ff4b3a8292e7c7c086e6f7:8af75757b1dbf558dba71ed1eaa0c9f0
+https://cdn.trimi.com.ar/live/sm-live/CINECANAL/sa_live_dash/CINECANAL.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png", CINECANAL OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10274.ts
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/hV2MwGM/tnthd.jpg", TNT HD
 #EXTVLCOPT:network-caching=1000
@@ -631,8 +664,18 @@ https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/Cine
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
-https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
+#KODIPROP:inputstream.adaptive.license_key=7df5d516c1644978aafd9a6f00846adc:fe5591c37341ef9870d5bf272880b896
+https://cdn.trimi.com.ar/live/sm-live/TNT/sa_live_dash/TNT.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/hV2MwGM/tnthd.jpg", TNT HD OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/6uatubavwbq3hb4smwem8/tnt.json?rlkey=6lyiihjb5htyx5fm46f3ghkht&st=y8zf9it0&dl=0
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10272.ts
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/0Fb9ncz/descarga-7.png", TNT SERIES
 #EXTVLCOPT:network-caching=1000
@@ -641,8 +684,24 @@ https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_H
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
-https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
+#KODIPROP:inputstream.adaptive.license_key=653b324749e746d2acb999b58e585027:6eb5e42a2f321b7507dc4e6aed472630
+https://cdn.trimi.com.ar/live/sm-live/TNT_SERIES/sa_live_dash/TNT_SERIES.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/0Fb9ncz/descarga-7.png", TNT SERIES OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10271.ts
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/jVMmjN6/descarga-8.png", TNT NOVELAS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e24ece68ef22440f98b5a589589e86f7:7d3773905780c9711cf5a6cd2f6d903c
+https://cdn.trimi.com.ar/live/sm-live/TNT_NOVELAS/sa_live_dash/TNT_NOVELAS.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/99991748/600x337.webp?type=color_onBlack", TELEMUNDO ACCION
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991748/hls/master.m3u8?ads.xumo_channelId=99991748
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/MZYTrkg/descarga-9.png", CINEMAX
 #EXTVLCOPT:network-caching=1000
@@ -651,8 +710,11 @@ https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSer
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
-https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
+#KODIPROP:inputstream.adaptive.license_key=ac9b49622e0f4cc68d77d374f18b0151:30d4af51cbf312d161178dd3e0057647
+https://cdn.trimi.com.ar/live/sm-live/CINEMAX/sa_live_dash/CINEMAX.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/MZYTrkg/descarga-9.png", CINEMAX OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10275.ts
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/4MpBMnc/channels4-profile-4.jpg", FX HD
 #EXTVLCOPT:network-caching=1000
@@ -661,20 +723,70 @@ https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
-https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=ed81783173a34b9a8f0ea67cf772db2a:bf1ff16f13c67e0d2a4a1bedada582d1
+https://cdn.trimi.com.ar/live/sm-live/FX/sa_live_dash/FX.mpd
 
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg", TBS
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/4MpBMnc/channels4-profile-4.jpg", FX HD OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10289.ts
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/vqF1RTN/co-space-hd-m.png", SPACE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
-https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
+#KODIPROP:inputstream.adaptive.license_key=6a9c0a7dec5e49bf9b018ff4412be393:cbcdfffb4322ee726d4d1729a8dacf5c
+https://cdn.trimi.com.ar/live/sm-live/SPACE/sa_live_dash/SPACE.mpd
 
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/amc.webp", AMC HD
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/vqF1RTN/co-space-hd-m.png", SPACE HD OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10269.ts
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg", STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e848170ca304178b8f88943edc2c42b:54e0b083eb9f9bed734df744d0c0e366
+https://cdn.trimi.com.ar/live/sm-live/STAR/sa_live_dash/STAR.mpd
+
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png", SONY CHANNEL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=786868f2a5a843dc99030ba829382cdf:1dd03c0b202f12a51e351cf03655b550
+https://cdn.trimi.com.ar/live/sm-live/SONY/sa_live_dash/SONY.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png", SONY CHANNEL OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)
+http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/sqF3Dsc/unnamed-8.jpg", AXN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=451633bd019d424aa446e20b565f2f18:78b21bcf86c8513527f62d3587a84be9
+https://cdn.trimi.com.ar/live/sm-live/AXN/sa_live_dash/AXN.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg", A&E
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1b8d5859d4a4f33b80b24184cc1da91:020cd87890a23b81535bd72bc275648f
+https://cdn.trimi.com.ar/live/sm-live/AE/sa_live_dash/AE.mpd
+
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg", AMC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -684,85 +796,26 @@ https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
 #KODIPROP:inputstream.adaptive.license_key=35e7251476a9482a957e7abfed065f86:bf9a301292298a0fb6e81bf55f4817e8
 https://cdn.trimi.com.ar/live/sm-live/AMC/sa_live_dash/AMC.mpd
 
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/L6NV6Dy/720x540.jpg", A3SERIES
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png", COMEDY CENTRAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
-https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd
+#KODIPROP:inputstream.adaptive.license_key=2917ac690c3546b6988dabbe7c5a7bbf:914b05782000ea5f2571a7e1a106c20a
+https://cdn.trimi.com.ar/live/sm-live/COMEDY_CENTRAL/sa_live_dash/COMEDY_CENTRAL.mpd
 
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/comedy.webp", comedy central
+#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg", PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
-https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd
+#KODIPROP:inputstream.adaptive.license_key=e4e6b00b29c84110829208225723d74f:6201e040d30dd4131baf791c74898c52
+https://cdn.trimi.com.ar/live/sm-live/PARAMOUNT/sa_live_dash/PARAMOUNT.mpd
 
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.imgur.com/Byn8Lke.png", SPACE HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
-https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
-
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/star.webp", STAR CHANNEL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
-https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
-
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/sony.webp", SONY CHANNEL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
-https://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd
-
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png", AXN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
-https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd
-
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/ae.webp", A&E
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
-https://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
-
-#EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://a-qiio.onrender.com/webp/logos/paramount.webp", PARAMOUNT
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
-https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd
 
 #EXTINF:-1 group-title="📺CANALES DE PELICULAS Y SERIES" tvg-logo="https://i.imgur.com/JZKmYXB.png", A3CINE
 #EXTVLCOPT:network-caching=1000
