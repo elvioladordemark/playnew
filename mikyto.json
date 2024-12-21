@@ -1457,7 +1457,35 @@ http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/132657.mkv
 #EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE4ZDE5ZTktZWZkMC00MGY4LWFkZDUtZTc5YWU3NzM2YmM3XkEyXkFqcGc@._V1_QL75_UY148_CR9,0,100,148_.jpg", REBELDE RIDGE
 http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/101958.mkv
 #EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/EPGthomraider12gz,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz"
+#EXTINF:-1 cuid="875" tvg-chno="875" tvg-name="Filmrise America's Dumbest Criminals 🇺🇸" tvg-logo="https://filmrise.com/uploads/images/_regular/Americas-Dumbest-Criminals-16x9-BACKGROUND.jpg" group-title="Archives ✬ Crimes Files 📁",Filmrise America's Dumbest Criminals 🇺🇸
+https://d3fmqi91qduj7.cloudfront.net/11401/88884548/hls/master.m3u8?ads.xumo_channelId=88884548&ads.xumo_streamId=88884548
 
+#EXTINF:-1 cuid="876" tvg-chno="876" tvg-name="World's Wildest Police Videos 🇺🇸" tvg-id="plex.tv.World`s.Wildest.Police.Videos.plex" tvg-logo="https://i.ytimg.com/vi/YhD7Dcgrs_k/maxresdefault.jpg" group-title="Archives ✬ Crimes Files 📁",World's Wildest Police Videos 🇺🇸
+https://d3fmqi91qduj7.cloudfront.net/11401/88884549/hls/master.m3u8?ads.xumo_channelId=88884549&ads.xumo_streamId=88884549
+
+#EXTINF:-1 cuid="877" tvg-chno="877" tvg-name="Filmrise True Crime 🇺🇸" tvg-id="plex.tv.FilmRise.True.Crime.plex" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20241112T231514SQUARE.png" group-title="Archives ✬ Crimes Files 📁",Filmrise True Crime 🇺🇸
+https://d3fmqi91qduj7.cloudfront.net/11401/88814506/hls/master.m3u8?ads.xumo_channelId=88814506&ads.xumo_streamId=88814506
+
+#EXTINF:-1 cuid="878" tvg-chno="878" tvg-name="Filmrise Forensic Files 🇺🇸" tvg-id="USBB3200017MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20240520T221217SQUARE.png" group-title="Archives ✬ Crimes Files 📁",Filmrise Forensic Files 🇺🇸
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Forensic-Files.m3u8
+
+#EXTINF:-1 cuid="879" tvg-chno="879" tvg-name="FilmRise World’s Most Evil Killers 🇺🇸" tvg-id="USBC1000002NP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20240520T221604SQUARE.png" group-title="Archives ✬ Crimes Files 📁",FilmRise World’s Most Evil Killers 🇺🇸
+https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
+
+#EXTINF:-1 cuid="880" tvg-chno="880" tvg-name="FilmRise Unsolved Mysteries 🇺🇸" tvg-id="USBB3200018Q6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200018Q6_20240520T221352SQUARE.png" group-title="Archives ✬ Crimes Files 📁",FilmRise Unsolved Mysteries 🇺🇸
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8
+
+#EXTINF:-1 cuid="881" tvg-chno="881" tvg-name="FilmRise Women Behind Bars (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-6502891e8ebe90c9ed73f7a0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51132fd6-37d3-4fe3-a9ea-42a60b59f276/Plex_FilmRise_WomenBehindBars_1920x1080.jpg" group-title="Archives ✬ Crimes Files 📁",FilmRise Women Behind Bars (vᴘɴ 🇺🇸)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6502891e8ebe90c9ed73f7a0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KXA5op6UMSqtQFs3STc3
+
+#EXTINF:-1 cuid="882" tvg-chno="882" tvg-name="Total Crime 🇨🇦" tvg-id="CABA8000080J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA8000080J_20241105T024452SQUARE.png" group-title="Archives ✬ Crimes Files 📁",Total Crime 🇨🇦
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CrimeTime-Canada.m3u8
+
+#EXTINF:-1 cuid="883" tvg-chno="883" tvg-name="Total Crime 🇺🇸" tvg-id="62e93b8eb8e02600071f8b1d" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG.png" group-title="Archives ✬ Crimes Files 📁",Total Crime 🇺🇸
+https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="884" tvg-chno="884" tvg-name="Inside Crime 🇺🇸" tvg-id="GBBD500002R4" tvg-logo="https://images.pluto.tv/channels/61c49f1495f417000731cef0/colorLogoPNG.png" group-title="Archives ✬ Crimes Files 📁",Inside Crime 🇺🇸
+https://is.gd/QiuX5Q?GBBD500002R4.m3u8
 
 
 
