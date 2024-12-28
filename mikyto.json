@@ -18,6 +18,8 @@ https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+#EXTINF:-1 group-title="TIGO SPORTS EN VIVO" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg",TIGO SPORTS EN VIVO
+https://vsd166.okcdn.ru/hls/7407816608476.m3u8/sig/iXMfTJPS5AU/expires/1735480933860/srcIp/181.94.225.121/urls/185.226.55.84/clientType/1/srcAg/UNKNOWN_ANDROID/mid/8616742624988/7407816608476_high/index.m3u8
 
 #EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 1
 http://190.102.139.241:7878/play/a009/index.m3u8
@@ -235,6 +237,15 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
+#EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://a-qiio.onrender.com/webp/logos/espn.webp" ,ESPN 2 🇦🇷
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
+https://:pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(ESPN)/manifest.mpd
 #EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://a-qiio.onrender.com/webp/logos/espn.webp" ,ESPN 2 🇦🇷
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -1423,70 +1434,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Disc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
-
-#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="https://i.postimg.cc/d0kqTDzC/IMG-20241103-WA1150.jpg", NO ENTRES 2024
-https://smulvad.ultranodo.skin/ko.php?path=edu/n03ntr3s.mp4&tokenauth=PAQvKnJLhGDTA2WvMdIjRFf50miEp7jJ1uigVpV7Di2
-
-#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="https://i.postimg.cc/4NSqHwZ8/descarga-4.jpg", VENOM 2024
-https://smulvad.ultranodo.skin/ok.php?path=edu/v3n0m3.mp4&tokenauth=PAQvKnJLhGDTA2WvMdIjRFf50miEp7jJ1uigVpV7Di2
-
-#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="https://i.postimg.cc/3RRBV3RD/descarga-2.jpg", TERRIFIER 3 2024
-https://mulvad.mxneta.click/ok.php?path=edu/Terrifier3.mp4&tokenauth=PAQvKnJLhGDTA2WvMdIjRFf50miEp7jJ1uigVpV7Di2
-
-#EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY5NjdlOGYtNTY4Yi00MTdjLTg2ZTYtMGQ5OGI3MTQ5OTkxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg", EL CORREO
-http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/89770.mkv
-
-#EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I0YmNiNmEtNWI2My00NDU5LWIwZWItNWNkNjFmYWJjNTMxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg", EL SINDICATO
-http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/99456.mkv
-
-#EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhkYjUxNGMtZTk5Yy00MTZlLThlZTAtYjc5OGE5MTk1OGI4XkEyXkFqcGc@._V1_QL75_UY148_CR9,0,100,148_.jpg", ENCIERRO
-http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/75340.mkv
-
-#EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWMyYmFhMzMtYjMwYS00Zjg0LWE0NmYtNzZmZWQ5MjkwZTJkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg", INEXPERTOS
-http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/100560.mkv
-
-#EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI2ZWFkNTAtYjA0NS00NzZkLWE1NzMtNGRkMmY2MzEwZWRkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg", LA LIBERACION
-http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/101441.mkv
-
-#EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGEyYmQxNjQtNDlkYy00MDlkLTgyNDUtZDA0NGY3ZTNlZWU0XkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg", LOS FEOS
-http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/131438.mkv
-
-#EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzczYmQ0NTUtMTM5OS00Mzc4LWExZDYtOWE4YjRkOWJkYWRlXkEyXkFqcGc@._V1_QL75_UX100_CR0,1,100,148_.jpg", PARPADEA DOS VECES
-http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/132657.mkv
-
-#EXTINF:-1 group-title="NETFLIX PELICULAS POPULARES" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE4ZDE5ZTktZWZkMC00MGY4LWFkZDUtZTc5YWU3NzM2YmM3XkEyXkFqcGc@._V1_QL75_UY148_CR9,0,100,148_.jpg", REBELDE RIDGE
-http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/101958.mkv
-#EXTM3U url-tvg="https://bit.ly/RevolutionEpg,https://bit.ly/EPGthomraider12gz,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz,https://bit.ly/Plexgz,https://bit.ly/epgnz"
-#EXTINF:-1 cuid="875" tvg-chno="875" tvg-name="Filmrise America's Dumbest Criminals 🇺🇸" tvg-logo="https://filmrise.com/uploads/images/_regular/Americas-Dumbest-Criminals-16x9-BACKGROUND.jpg" group-title="Archives ✬ Crimes Files 📁",Filmrise America's Dumbest Criminals 🇺🇸
-https://d3fmqi91qduj7.cloudfront.net/11401/88884548/hls/master.m3u8?ads.xumo_channelId=88884548&ads.xumo_streamId=88884548
-
-#EXTINF:-1 cuid="876" tvg-chno="876" tvg-name="World's Wildest Police Videos 🇺🇸" tvg-id="plex.tv.World`s.Wildest.Police.Videos.plex" tvg-logo="https://i.ytimg.com/vi/YhD7Dcgrs_k/maxresdefault.jpg" group-title="Archives ✬ Crimes Files 📁",World's Wildest Police Videos 🇺🇸
-https://d3fmqi91qduj7.cloudfront.net/11401/88884549/hls/master.m3u8?ads.xumo_channelId=88884549&ads.xumo_streamId=88884549
-
-#EXTINF:-1 cuid="877" tvg-chno="877" tvg-name="Filmrise True Crime 🇺🇸" tvg-id="plex.tv.FilmRise.True.Crime.plex" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20241112T231514SQUARE.png" group-title="Archives ✬ Crimes Files 📁",Filmrise True Crime 🇺🇸
-https://d3fmqi91qduj7.cloudfront.net/11401/88814506/hls/master.m3u8?ads.xumo_channelId=88814506&ads.xumo_streamId=88814506
-
-#EXTINF:-1 cuid="878" tvg-chno="878" tvg-name="Filmrise Forensic Files 🇺🇸" tvg-id="USBB3200017MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20240520T221217SQUARE.png" group-title="Archives ✬ Crimes Files 📁",Filmrise Forensic Files 🇺🇸
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Forensic-Files.m3u8
-
-#EXTINF:-1 cuid="879" tvg-chno="879" tvg-name="FilmRise World’s Most Evil Killers 🇺🇸" tvg-id="USBC1000002NP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20240520T221604SQUARE.png" group-title="Archives ✬ Crimes Files 📁",FilmRise World’s Most Evil Killers 🇺🇸
-https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
-
-#EXTINF:-1 cuid="880" tvg-chno="880" tvg-name="FilmRise Unsolved Mysteries 🇺🇸" tvg-id="USBB3200018Q6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200018Q6_20240520T221352SQUARE.png" group-title="Archives ✬ Crimes Files 📁",FilmRise Unsolved Mysteries 🇺🇸
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8
-
-#EXTINF:-1 cuid="881" tvg-chno="881" tvg-name="FilmRise Women Behind Bars (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-6502891e8ebe90c9ed73f7a0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51132fd6-37d3-4fe3-a9ea-42a60b59f276/Plex_FilmRise_WomenBehindBars_1920x1080.jpg" group-title="Archives ✬ Crimes Files 📁",FilmRise Women Behind Bars (vᴘɴ 🇺🇸)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6502891e8ebe90c9ed73f7a0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KXA5op6UMSqtQFs3STc3
-
-#EXTINF:-1 cuid="882" tvg-chno="882" tvg-name="Total Crime 🇨🇦" tvg-id="CABA8000080J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA8000080J_20241105T024452SQUARE.png" group-title="Archives ✬ Crimes Files 📁",Total Crime 🇨🇦
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CrimeTime-Canada.m3u8
-
-#EXTINF:-1 cuid="883" tvg-chno="883" tvg-name="Total Crime 🇺🇸" tvg-id="62e93b8eb8e02600071f8b1d" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG.png" group-title="Archives ✬ Crimes Files 📁",Total Crime 🇺🇸
-https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="884" tvg-chno="884" tvg-name="Inside Crime 🇺🇸" tvg-id="GBBD500002R4" tvg-logo="https://images.pluto.tv/channels/61c49f1495f417000731cef0/colorLogoPNG.png" group-title="Archives ✬ Crimes Files 📁",Inside Crime 🇺🇸
-https://is.gd/QiuX5Q?GBBD500002R4.m3u8
-
 
 
 
