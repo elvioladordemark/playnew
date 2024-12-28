@@ -20,10 +20,10 @@ https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.
 https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 #EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 1
-https://gucprez.online:9090/ESPNMX/tracks-v1a1/mono.m3u8
+http://190.102.139.241:7878/play/a009/index.m3u8
 
 #EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 2
-https://gucprez.online:9090/espn2mx/tracks-v1a1/mono.m3u8
+http://190.102.139.241:7878/play/a00o/index.m3u8
 
 #EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 3
 https://gucprez.online:9090/espn2mx/index.m3u8
