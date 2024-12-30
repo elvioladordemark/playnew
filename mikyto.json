@@ -18,35 +18,13 @@ https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-#EXTINF:-1 group-title="TIGO SPORTS EN VIVO" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg",TIGO SPORTS EN VIVO
+#EXTINF:-1 group-title="TIGO SPORTS EN VIVO" tvg-logo=""https://i.postimg.cc/T1FZNBmV/descarga-19.jp",TIGO SPORTS EN VIVO
 https://vsd166.okcdn.ru/hls/7407816608476.m3u8/sig/iXMfTJPS5AU/expires/1735480933860/srcIp/181.94.225.121/urls/185.226.55.84/clientType/1/srcAg/UNKNOWN_ANDROID/mid/8616742624988/7407816608476_high/index.m3u8
 
-#EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 1
-http://190.102.139.241:7878/play/a009/index.m3u8
-
-#EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 2
-http://190.102.139.241:7878/play/a00o/index.m3u8
-
-#EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 3
-https://gucprez.online:9090/espn2mx/index.m3u8
-
-#EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 4
-http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96329.m3u8
-
-#EXTINF:-1 group-title="EVENTOS DISNEY+" tvg-logo="https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg", EVENTOS 5
-https://8.tutl24.xyz/dash/ST18727094d3eb934.mpd
-
-#EXTINF:-1 group-title="DEPORTES EXTRAS" tvg-logo="https://i.postimg.cc/05mt0y4t/descarga-4.png", TUDN USA
-https://8.tutl24.xyz/dash/ST087e6438aba77f1.mpd
-
 #EXTINF:-1 group-title="DEPORTES EXTRAS" tvg-logo="https://i.postimg.cc/05mt0y4t/descarga-4.png", TUDN MEX
-https://8.tutl24.xyz/dash/STbf8e8e95160e2a0.mpd
+http://181.78.105.146:2000/play/a08j/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES EXTRAS" tvg-logo="https://i.postimg.cc/15YwQYrT/images-1.png", WIN SPORTS
-https://8.tutl24.xyz/dash/ST88592e4ea3b466d.mpd
 
-#EXTINF:-1 group-title="DEPORTES EXTRAS" tvg-logo="https://i.postimg.cc/MHsyq36G/descarga-6.jpg", BEIN SPORTS 
-https://8.tutl24.xyz/dash/ST6b74e08915d4db1.mpd
 
 #EXTINF:-1 group-title="DEPORTES EXTRAS" tvg-logo="https://i.postimg.cc/MHsyq36G/descarga-6.jpg", BEIN SPORTS EXTRA 
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -54,8 +32,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES EXTRAS" tvg-logo="https://i.postimg.cc/ZKmSTsSF/descarga-8.jpg", SKY SPORTS LA LIGA
 http://181.78.105.146:8800/play/a07h
 
-#EXTINF:-1 group-title="DEPORTES EXTRAS" tvg-logo="https://i.postimg.cc/qRTqqCJ3/0d4dea0727c5beabbb9d7fdf382fdd40.jpg", EVENTOS MLS
-https://8.tutl24.xyz/dash/ST66345b5cd435eea.mpd
+
 
 #EXTINF:-1 group-title="EVENTOS FLOW MUSIC" tvg-logo="https://i.ibb.co/jhrG266/flow-music.png" ,FLOW MUSIC
 #EXTVLCOPT:network-caching=1000
@@ -1434,6 +1411,5 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Disc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
-
 
 
