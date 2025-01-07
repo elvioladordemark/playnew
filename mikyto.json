@@ -502,6 +502,15 @@ http://billigaskall.ga:8080/live/Daryl/fHwmAs3yACdas/1131117.ts
 #KODIPROP:inputstream.adaptive.license_key=281037801971:192390910348
 http://billigaskall.ga:8080/live/Daryl/fHwmAs3yACdas/1131117.ts
 
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png", TELECINE PIPOCA
+https://super-cdn.link/telecinepipoca/index.m3u8
+
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest/scale-to-width-down/284?cb=20160228233323", TELECINE ACCION
+https://super-cdn.link/telecineaction/index.m3u8
+
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png", TELECINE FUN
+https://super-cdn.link/telecinefun/index.m3u8
+
 #EXTINF:-1 group-title="⚽BRASIL DEPORTES" tvg-logo="https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg" ,PREMIERE 1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
