@@ -503,7 +503,7 @@ http://billigaskall.ga:8080/live/Daryl/fHwmAs3yACdas/1131117.ts
 http://billigaskall.ga:8080/live/Daryl/fHwmAs3yACdas/1131117.ts
 
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png", TELECINE PIPOCA
-https://super-cdn.link/telecinepipoca/index.m3u8
+https://anonstream.zip/telecinepipoca/index.m3u8|Referer=https://reidoscanais.eu/
 
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest/scale-to-width-down/284?cb=20160228233323", TELECINE ACCION
 https://super-cdn.link/telecineaction/index.m3u8
