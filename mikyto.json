@@ -487,7 +487,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=281037801971:192390910348
-http://tv.iprotv.live/ProYeCtoX998/NuevaProyectoRw/1913.ts
+https://edge1-eu-west.picarto.tv/stream/hls/golive%2btelefuturo/0_1/index.m3u8
 
 #EXTINF:-1 group-title="⚽ DEPORTES DIRECTV" tvg-logo="https://i.postimg.cc/t43xfP4y/images-1-fotor-bg-remover-2024101824253.png" ,DIRECTV 2
 http://billigaskall.ga:8080/live/Daryl/fHwmAs3yACdas/1131117.ts
