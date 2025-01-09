@@ -241,8 +241,8 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
+https://chromecast.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd
 
 
 #EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://i.imgur.com/JzMEf48.png" ,ESPN_3 🇦🇷
