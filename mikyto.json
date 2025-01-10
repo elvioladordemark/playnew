@@ -1345,11 +1345,9 @@ https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Disc
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
-#EXTM3U
 
-nacionales, aire y noticias
-
-
+#EXTINF:-1 group-title="ARGENTINA RURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png", PAKA PAKA
+#EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
 #EXTINF:-1  tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="ArgentinaðŸ‡¦ðŸ‡·", ArgentinÃ­sima Satelital
