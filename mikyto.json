@@ -1,24 +1,24 @@
 #EXTM3U
 paraguay
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes",tigo Sports
 http://tvplanet.online/live/Logitech25/Logitech25/1072691.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports 2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes",tigo Sports 2
 http://tvplanet.online/live/Logitech25/Logitech25/1102737.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports 3
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes",tigo Sports 3
 http://tvplanet.online/live/Logitech25/Logitech25/1102738.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports 4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", tigo Sports 4
 http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/77150.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports 5
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes",tigo Sports 5
 http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/77150.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
-#EXTINF:-1 group-title="Paraguay" ch-number="716" tvg-id="5dias.py" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png", 5 D铆as Paraguay
+#EXTINF:-1 group-title="Paraguay" ch-number="716" tvg-id="5dias.py" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png", 5 Dias Paraguay
 https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -110,7 +110,6 @@ https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mp
 #EXTINF:-1 group-title="Paraguay" ch-number="732" tvg-id="universoTV.py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxhfthxflIo6TWCqh0k32C_3N-SuHZOC88MgnqeRirC6aOESH9u3RSfVxFrzX7-RUIm0&usqp=CAU", Universo TV Paraguay
 https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-nacionales, aire y noticias
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -143,13 +142,13 @@ https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1  tvg-id="TVPublica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="ArgentinaðŸ‡¦ðŸ‡·", TV PÃºblica
+#EXTINF:-1  tvg-id="TVPublica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="ArgentinaðŸ‡¦ðŸ‡·", TV Publica
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 group-title="ArgentinaðŸ‡¦ðŸ‡·"  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" tvg-group="Nacionales", AmÃ©rica
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+#EXTINF:-1 group-title="ArgentinaðŸ‡¦ðŸ‡·"  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" tvg-group="Nacionales", America
+https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
