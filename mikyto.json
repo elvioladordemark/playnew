@@ -1,4 +1,114 @@
 #EXTM3U
+paraguay
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports
+http://tvplanet.online/live/Logitech25/Logitech25/1072691.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports 2
+http://tvplanet.online/live/Logitech25/Logitech25/1102737.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports 3
+http://tvplanet.online/live/Logitech25/Logitech25/1102738.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports 4
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/77150.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="Paraguay Deportes", 鈿絋igo Sports 5
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/77150.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
+#EXTINF:-1 group-title="Paraguay" ch-number="716" tvg-id="5dias.py" tvg-logo="https://i.ibb.co/k48NKrR/5diaspy.png", 5 D铆as Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
+#EXTINF:-1 group-title="Paraguay" ch-number="717" tvg-id="Canal 9 Noticias (Paraguay).py" tvg-logo="https://dl.dropbox.com/scl/fi/z09fuqglafyl8xw7bb4o9/c9n-py.png?rlkey=ixxffkxfslc3awi3ogy129ewo&dl=1" tvg-shift="6", C9N Paraguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
+#EXTINF:-1 group-title="Paraguay" ch-number="718" tvg-id="ABCTV.py" tvg-logo=, ABC TV Paraguay
+https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
+#EXTINF:-1 group-title="Paraguay" ch-number="719" tvg-id="canalpro.py" tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg", Canal Pro Paraguay
+https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+#EXTINF:-1 group-title="Paraguay" ch-number="720" tvg-id="GenTVPy" tvg-logo="https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1", Gen TV Paraguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
+#EXTINF:-1 group-title="Paraguay" ch-number="721" tvg-id="Canal La Tele (Paraguay).py" tvg-logo="https://i.ibb.co/Zg861M4/latele.png", La Tele Paraguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
+#EXTINF:-1 group-title="Paraguay" ch-number="722" tvg-id="mega.py" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg", Mega Paraguay
+https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+#EXTINF:-1 group-title="Paraguay" ch-number="723" tvg-id="Canal Noticias PY (Paraguay).py" tvg-logo="https://dl.dropbox.com/scl/fi/1rqhr8ip2cepj3n89eh9z/noticiaspy.png?rlkey=9xapdgt9oyh5sy7pn9lkx3cb3&dl=1" tvg-shift="6", Noticias Paraguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+#EXTINF:-1 ch-number="724" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="Paraguay", Paraguay TV
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
+#EXTINF:-1 group-title="Paraguay" ch-number="725" tvg-id="ParaVision" tvg-logo="https://dl.dropbox.com/scl/fi/kl3rp5h3no5qhnerm0hjj/paravision.png?rlkey=l1wl9amldkm07v2lj59wqkmub&dl=1", Paravisi贸n Paraguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+#EXTINF:-1 group-title="Paraguay" ch-number="726" tvg-id="Canal SNT (Paraguay).py" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es" tvg-shift="6", SNT Paraguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
+#EXTINF:-1 group-title="Paraguay" ch-number="727" tvg-id="Canal Sur TV Itap煤a (Paraguay).py" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg", Sur TV Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+#EXTINF:-1 group-title="Paraguay" ch-number="728" tvg-id="TelefuturoPY" tvg-logo="https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1", Telefuturo Paraguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
+#EXTINF:-1 group-title="Paraguay" ch-number="729" tvg-id="trece.py" tvg-logo="https://i.ibb.co/bNM6g8N/trecepy.png", Trece Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9357704ade444dc3b23be89865af2f58:3d03e0a79d8f7b7aa2897c3d24bd4b6a
+#EXTINF:-1 group-title="Paraguay" ch-number="730" tvg-id="tvcamara.py" tvg-logo="https://i.ibb.co/TkT1Dbm/tvcamara.jpg", TV C谩mara
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+#EXTINF:-1 group-title="Paraguay" ch-number="731" tvg-id="Unicanal.py" tvg-logo="https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg", Unicanal Paraguay
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+#EXTINF:-1 group-title="Paraguay" ch-number="732" tvg-id="universoTV.py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxhfthxflIo6TWCqh0k32C_3N-SuHZOC88MgnqeRirC6aOESH9u3RSfVxFrzX7-RUIm0&usqp=CAU", Universo TV Paraguay
+https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 nacionales, aire y noticias
 
