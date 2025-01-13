@@ -112,7 +112,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_wl/TE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
-https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://a-qiio.onrender.com/webp/logos/optimized/trecepy.webp" ,RPC 🇵🇾
 #EXTVLCOPT:network-caching=1000
