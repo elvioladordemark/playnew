@@ -211,6 +211,11 @@ https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd785
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/9hqVmzy/descarga.png", UNION TV
 https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/ED489D206809FCF3E9EED69210D0B984BA0C34DF4AE1B10622EF91D776152C1A/compose?format=webp&width=800" group-title="馃嚨馃嚜PERU DEPORTES VPN/PE", Espn 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58ffa48210db937522b2be6bcb9a9326:79ddfb8e113c14f3dd34cbe0f2485135
+https://pelivechannelsdash-7.clarovideo.com/bpk-tv/FOXSPORTS2HD/dash_fk/index.mpd
+
 
 
 #EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://a-qiio.onrender.com/webp/logos/espn.webp" ,ESPN 🇦🇷
