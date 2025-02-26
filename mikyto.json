@@ -226,7 +226,7 @@ https://pelivechannelsdash-7.clarovideo.com/bpk-tv/FOXSPORTS2HD/dash_fk/index.mp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+http://chromecast.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd
 
 #EXTINF:-1 group-title="DEPORTES ESPN" tvg-logo="https://a-qiio.onrender.com/webp/logos/espn.webp" ,ESPN 2 🇦🇷
 #EXTVLCOPT:network-caching=1000
