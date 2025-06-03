@@ -14,7 +14,7 @@ http://192.250.238.31:1234/stream/paraguay/tigo1/master.m3u8?u=admin&p=9f7cb373f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="🇵🇾Tigo Sports", Tigo Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?|referer=https://www.tigosports.com.py/|origin=https://www.tigosports.com.py
+https://sam-py-edge01.tigo.com.py/ccur-session/7f6e3fdb59994965abed8dd5c6faccf517487270122031b65a320aeed11ebae01d90082191a3c1a5MrOL1SVX7zpX7GuV2tRmo/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd?dvr_window_length=30?|referer=https://www.tigosports.com.py/|origin=https://www.tigosports.com.py
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s" group-title="🇵🇾Tigo Sports", Tigo Sports 3
