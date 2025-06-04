@@ -177,7 +177,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentra
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmHsJgrZlVlrh50uYsFa6rGXf2VtbcdX-PA&s" group-title="🎬 CINE Y SERIES", PARAMOUNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
-https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd?|referer=https://web.app.flow.com.py/|origin=https://web.app.flow.com.py
 
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k3wuPA0vX5hb5ryXw9j1cJETlTfao8dD12DqRHvbIqwO8=s900-c-k-c0x00ffffff-no-rj" group-title="🎬 CINE Y SERIES", A3CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
