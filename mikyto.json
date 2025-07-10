@@ -19,10 +19,7 @@ https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd?|ref
 #KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
 https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7681/CH_LOGO/60/40/0/0/93493116074020.png" group-title="🇵🇾 PARAGUAY", ABC TV FLOW
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
-https://chromecast.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ABCTV/EXPORTACION_WEB/SS/ABCTV_t-290x163.png" group-title="🇵🇾 PARAGUAY", ABC TV
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
