@@ -20,9 +20,9 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 #EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="TIGO EN VIVO",TIGO 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO EN VIVO",TIGO 1
 https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="TIGO EN VIVO",TIGO PLUS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrD5C6S3/descarga.png" group-title="TIGO EN VIVO",TIGO PLUS
 https://live.enhdtv.com:8081/8162/index.m3u8
 
 #EXTINF:ARGENTINA TV
