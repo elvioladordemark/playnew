@@ -859,9 +859,7 @@ https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
 https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-name="COMBATE BR" tvg-logo="https://i.postimg.cc/nLbDkJLm/download-34.png" group-title="DEPORTES BRASIL",COMBATE BR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="COMBATE BR" tvg-name="COMBATE BR" tvg-logo="https://i.postimg.cc/nLbDkJLm/download-34.png" group-title="DEPORTES BRASIL",COMBATE BR
 https://latan.stonetv.com.br/combate/tracks-v1a1/mono.m3u8
 
 
@@ -880,7 +878,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.postimg.cc/9MD3FkT1/download-12.png" group-title="DEPORTES BRASIL",ESPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn
+https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn?|referer=https://streamrdc.xyz/&origin=https://streamrdc.xyz
 
 
 
