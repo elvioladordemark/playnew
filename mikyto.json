@@ -859,7 +859,26 @@ https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
 https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-name="CAZE TV" tvg-logo="https://www.digital-myc.com/caelum/img/CAZETV.png" group-title="DEPORTES BRASIL",CAZE TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.digital-myc.com/caelum/licence_brasil/CAZE.TV.json
+https://abc3orwaaaaaaaampb5zelh6d3hy6.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
+#EXTINF:-1 tvg-name="COMBATE BR" tvg-logo="https://i.postimg.cc/nLbDkJLm/download-34.png" group-title="DEPORTES BRASIL",COMBATE BR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3
+https://latan.stonetv.com.br/combate/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="PREMIERE CLUBES" tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="DEPORTES BRASIL",PREMIERE CLUBES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3
+https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
 
 
