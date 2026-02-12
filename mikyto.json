@@ -28,6 +28,11 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTINF:-1 tvg-name="EVENTOS 3 PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="EVENTO PY🇵🇾" type="channel",EVENTOS 3 PY
 https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png" group-title="⚽ DEPORTES ", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 #EXTINF:-1 tvg-id="ESPN SUR" tvg-logo="https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", ESPN SUR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -91,6 +96,181 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=da13bd9d503a6d8bbe34f9b185dfe521:787ecfe954108c152284ec89e379d7eb
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cdnclaroamx.com&Referer=https://www.cdnclaroamx.com/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE1MX_HD)/manifest.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="⚽ DEPORTES DIRECTV ARG",DIRECTV SPORTS
+http://190.108.89.228:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-name="DIRECTV SPORTS +" tvg-logo="https://i.ibb.co/RGy1cnLP/directv-sports2.png" group-title="⚽ DEPORTES DIRECTV ARG",DIRECTV SPORTS +
+#EXTVLCOPT:http-user-agent=PLPro/8
+#EXTVLCOPT:http-referrer=
+#EXTHTTP:header=X-Hash:MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp
+#EXTHTTP:header=X-Did:41c193ad43d937ca
+#EXTHTTP:header=X-Version:8/4.0.7
+#EXTHTTP:header=Accept-Encoding:gzip
+#EXTHTTP:header=Connection:Keep-Alive
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="SKY Sports" tvg-logo="https://i.postimg.cc/Y2y78pjd/SKYSPORTS.png" group-title="⚽ DEPORTES VARIADOS",SKY Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
+
+#EXTINF:-1 tvg-name="SKY Sports 2" tvg-logo="https://i.postimg.cc/ZKGStV8F/SKYSPORTS2.png" group-title="⚽ DEPORTES VARIADOS",SKY Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
+
+#EXTINF:-1 tvg-name="SKY LaLiga" tvg-logo="https://i.postimg.cc/QMksq1Wp/SKYSPORTSLALIGA.png" group-title="⚽ DEPORTES VARIADOS",SKY LaLiga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
+
+#EXTINF:-1 tvg-name="SKY Bundesliga" tvg-logo="https://i.postimg.cc/sx1ryLH0/SKYSPORTSBUNDESLIGA.png" group-title="⚽ DEPORTES VARIADOS",SKY Bundesliga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
+
+#EXTINF:-1 tvg-name="SKY Sports F1" tvg-logo="https://i.postimg.cc/FRHtgqvR/SKYSPORTSF1-2.png" group-title="⚽ DEPORTES VARIADOS",SKY Sports F1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53781c79161716b27ddfa70a8671cb9a:ec747fe222e238a6511202ce89a03df1
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.postimg.cc/SR4CnVVV/TUDN.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",TUDN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
+
+#EXTINF:-1 tvg-name="ESPN MX" tvg-logo="https://i.postimg.cc/vm1Wk4cG/ESPNMX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",ESPN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
+
+#EXTINF:-1 tvg-name="ESPN 2 MX" tvg-logo="https://i.postimg.cc/Yqkz02yJ/ESPN2MX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",ESPN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
+
+#EXTINF:-1 tvg-name="FOX Sports Premium MX" tvg-logo="https://i.postimg.cc/mrd5NzK4/FSPREMIUMMX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",FOX Sports Premium
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b142f14eb5a1359c05587bb46773e42:bf064a17f8400c697ad99c84ef232bb0
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/6/out/u/dash/FOXSPORTSPREMIUMHDH265/default.mpd
+
+#EXTINF:-1 tvg-name="NBA TV MX" tvg-logo="https://i.postimg.cc/Zq6G854p/NBATVMX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",NBA TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd
+
+#EXTINF:-1 tvg-name="NFL Network MX" tvg-logo="https://i.postimg.cc/T1NFdyJT/NFLMX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",NFL Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812232ec802794f7f0aedfdd82bb13d2:3c6a93ae956f0fc504b62983db808bad
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/6/out/u/dash/NFLHDH265/default.mpd
+
+
 
 
 #EXTM3U
