@@ -13,30 +13,345 @@ https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTO PY🇵🇾" 
-
-#EXTINF:0 tvg-id="TigoSports1.py" tvg-name="Tigo Sports 1" tvg-logo="https://i.ibb.co/n41kgCX/Tigo-Sports-2025.png" group-title="EVENTO PY🇵🇾",Tigo Sports 1
-https://digital-tv.net/canales/PHPS/angel/carlosrf.m3u8
-
-#EXTINF:0 tvg-id="TigoSports2.py" tvg-name="Tigo Sports 2" tvg-logo="https://i.ibb.co/n41kgCX/Tigo-Sports-2025.png" group-title="EVENTO PY🇵🇾",Tigo Sports 2
-http://181.41.199.49:8000/play/a0c7/index.m3u8
-
-#EXTINF:0 tvg-id="TigoSports3.py" tvg-name="Tigo Sports 3" tvg-logo="https://i.ibb.co/n41kgCX/Tigo-Sports-2025.png" group-title="EVENTO PY🇵🇾",Tigo Sports 3
-http://181.41.199.49:8000/play/a0hd/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-#EXTINF:-1 tvg-name="EVENTOS PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="EVENTO PY🇵🇾" type="channel",EVENTOS PY
+#EXTINF:-1 tvg-name="EVENTOS PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="EVENTO PY🇵🇾" type="channel",EVENTOS 1 PY
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="EVENTO PY🇵🇾" type="channel",EVENTOS PY 2
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="EVENTO PY🇵🇾" type="channel",EVENTOS 2 PY 
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
 #EXTINF:-1 tvg-name="EVENTOS 3 PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="EVENTO PY🇵🇾" type="channel",EVENTOS 3 PY
 https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9417/CH_LOGO/60/40/0/0/17713754078317.png" group-title="🇵🇾 PARAGUAY", UNIVERSO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://monumental.com.py/wp-content/uploads/2024/11/cropped-logo-webmonu-450x290-1.png" group-title="🇵🇾 PARAGUAY", MONUMENTAL
+https://latintop.alwaysdata.net/cine_series/samples/gen/gen.php
+
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/47226827072588.png" group-title="🇵🇾 PARAGUAY", HEI NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg" group-title="🇵🇾 PARAGUAY", SURTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7681/CH_LOGO/60/40/0/0/93493116074020.png" group-title="🇵🇾 PARAGUAY", ABC TV FLOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ABCTV/EXPORTACION_WEB/SS/ABCTV_t-290x163.png" group-title="🇵🇾 PARAGUAY", ABC TV
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/2643036007742.png" group-title="🇵🇾 PARAGUAY", UNICANAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdkSYeQWCAiOfwvbcT8MiabXYI6ehMHTw3A&s" group-title="🇵🇾 PARAGUAY", 5 DIAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZmg0k0fJFp46YuSqLMHqvChoADTKxehAK2WJYUEzWOB_8=s900-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 PARAGUAY", CANAL PRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwhB45lMgIli7B6z1M2eoJolqsp7kiZ0acA&s" group-title="🇵🇾 PARAGUAY", NPY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvtKQvJkg4uksOaOmaIVeJjSs0-NwuJ92Hw&s" group-title="🇵🇾 PARAGUAY", C9N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://lanacionpy.nyc3.cdn.digitaloceanspaces.com/img/gen/gen.jpg" group-title="🇵🇾 PARAGUAY", GEN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2013/03/La-Tele.jpg?fit=500%2C375&ssl=1" group-title="🇵🇾 PARAGUAY", LA TELE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="🇵🇾 PARAGUAY", PARAVISION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="🇵🇾 PARAGUAY", SNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7939/CH_LOGO/350/500/0/0/14415300071961.png" group-title="🇵🇾 PARAGUAY", PY-TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Paraguay_TV/SA_Live_dash_enc_C/Paraguay_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="🇵🇾 PARAGUAY", TELEFUTURO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="🇵🇾 PARAGUAY", RPC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4LJHDLxxHgJWKg5PmE1NMSEnvZdSVPHRFQ&s" group-title="🇵🇾 PARAGUAY", UNICANAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg" group-title="🇵🇾 PARAGUAY", CANAL PRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9hqVmzy/descarga.png" group-title="🇵🇾 PARAGUAY", Union Tv
+https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="🇵🇾 PARAGUAY", MEGA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="🇦🇷 ARGENTINA", CIUDAD MAGAZINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal7TWnlhy.png/150px-Canal7TWnlhy.png" group-title="🇦🇷 ARGENTINA", ENLACE
+http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-svfYMlTKi8F8wDaowkXDoK
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvN7HEybuqi5cATBqIDNouB6Kc5nVYBLZCA&usqp=CAU" group-title="🇦🇷 ARGENTINA", CANAL 26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Cronica-TV-en-vivo-Online.png" group-title="🇦🇷 ARGENTINA", CRONICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg" group-title="🇦🇷 ARGENTINA", C5N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="🇦🇷 ARGENTINA", LN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png" group-title="🇦🇷 ARGENTINA", EL TRECE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 ARGENTINA", TELEFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="🇦🇷 ARGENTINA", AMERICA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="🇦🇷 ARGENTINA", TV PUBLICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/canal-9-1.svg" group-title="🇦🇷 ARGENTINA", CANAL 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="🇦🇷 ARGENTINA", CANAL RURAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/encuentro-tv-canal8711.logowik.com.webp" group-title="🇦🇷 ARGENTINA", ENCUENTRO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTicBSjzzkLtY5ttBxpE7zXOSlcuKIxWRPfQ&s" group-title="🇦🇷 ARGENTINA", VIAJAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ip-informacion-periodistica2524.logowik.com.webp" group-title="🇦🇷 ARGENTINA", INFORMACION PERIODISTICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/a/a/6aa95365537efbae3fda880d015e4b95_icon.png" group-title="🇦🇷 ARGENTINA", TN NOTICIAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="🇦🇷 ARGENTINA", A24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+
+
+#EXTINF:-1 group-title="Argentina"  tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" tvg-group="Noticias", A24
+https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#EXTINF:-1 group-title="Argentina"  tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" tvg-group="Noticias", C5N
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
+#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 26.uy" tvg-name="CAN26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" tvg-group="Noticias", Canal 26
+https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
+#EXTINF:-1 group-title="Argentina"  tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" tvg-group="Noticias", Crónica
+https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
+#EXTINF:-1 group-title="Argentina"  tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" tvg-group="Noticias", La Nación +
+https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
+#EXTINF:-1 group-title="Argentina"  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" tvg-group="Noticias", TN
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
+#EXTINF:-1  tvg-id="Television Pública.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Argentina", TV Pública
+https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
+#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 9.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" tvg-group="Nacionales", El nueve
+https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
+#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/160/160/0/0/7476260107885.png" group-title="Córdoba",Canal 10 Córdoba
+https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
+#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina", Telefé
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 ch-number="11" tvg-id="Telefe Rosario.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1081/CH_LOGO/160/160/0/0/86810730078.png" group-title="Santa Fe", Telefé Rosario
+https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
+#EXTINF:-1 ch-number="11" tvg-id="Telefe Santa Fe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/160/160/0/0/7886775407228.png" group-title="Santa Fe", Telefé Santa Fé
+https://cdn.sensa.com.ar/output/COR/TSFH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
+#EXTINF:-1  ch-number="" tvg-id="Telefe Cordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/160/160/0/0/887528030752.png" group-title="Córdoba", Telefé Córdoba
+https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
+#EXTINF:-1 ch-number="12" tvg-id="eldoce tvg-name="Canal 12.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/589/CH_LOGO/160/160/0/0/51636269072.png" group-title="Córdoba", El Doce Córdoba
+https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
+#EXTINF:-1  ch-number="13" tvg-id="el13" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="Argentina", El Trece
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
+#EXTINF:-1 group-title="Argentina"  tvg-id="America.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" tvg-group="Nacionales", América
+https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
+#EXTINF:-1 group-title="Argentina"  tvg-id="Net TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png" tvg-group="Nacionales", Net TV
+https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
+#EXTINF:-1  tvg-id="126#Bravo TV (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2561/CH_LOGO/160/160/0/0/23653274077154.png" group-title="Argentina", Bravo TV
+https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
+#EXTINF:-1 group-title="Argentina"  tvg-id="CANAL E" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2562/CH_LOGO/160/160/0/0/11035030078196.png" tvg-group="Noticias", Canal E
+https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
+#EXTINF:-1  tvg-id="Ciudad Magazine.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png" group-title="Argentina", Ciudad Magazine
+https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a7ecf0c34695dd4e253574b0b85441e:e6518e0b5dfa5e0dc268a5b16106811b
+#EXTINF:-1   tvg-id="Volver.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="Argentina", Volver
+https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
+#EXTINF:-1  tvg-id="Canal Rural.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/59/CH_LOGO/160/160/0/0/446602280711.png" group-title="Argentina", Canal Rural
+https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
+#EXTINF:-1  tvg-id="Chacra TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/591/CH_LOGO/160/160/0/0/44952019073840.png" group-title="Argentina", Chacra TV
+https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/160/160/0/0/62114771072283.png" group-title="Corrientes", T5 Satelital
+https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
+#EXTINF:-1  tvg-id="CineAr.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png" group-title="Argentina", Cine.AR
+https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
+#EXTINF:-1  tvg-id="Encuentro.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" group-title="Argentina", Encuentro
+https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
+#EXTINF:-1  tvg-id="Argentinísima Satelital.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4027/CH_LOGO/160/160/0/0/480102480757.png" group-title="Argentina", Argentinísima Satelital
+https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
+#EXTINF:-1 tvg-id="EL DESTAPE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/160/160/0/0/49015720078226.png" group-title="Argentina", El Destape
+https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="ADULT SWIM.ar" tvg-logo="https://static.flow.com.ar/images/9537/CH_LOGO/60/40/0/0/21934865078382.png" group-title="🎬 CINE Y SERIES", ADULT SWIM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -482,111 +797,7 @@ https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cYjQX71/freetv-sabermas-1080x1080-02092024.jpg" group-title="📚 CULTURA", SABER MÁS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9417/CH_LOGO/60/40/0/0/17713754078317.png" group-title="🇵🇾 PARAGUAY", UNIVERSO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-logo="https://monumental.com.py/wp-content/uploads/2024/11/cropped-logo-webmonu-450x290-1.png" group-title="🇵🇾 PARAGUAY", MONUMENTAL
-https://latintop.alwaysdata.net/cine_series/samples/gen/gen.php
-
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/47226827072588.png" group-title="🇵🇾 PARAGUAY", HEI NOW
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg" group-title="🇵🇾 PARAGUAY", SURTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7681/CH_LOGO/60/40/0/0/93493116074020.png" group-title="🇵🇾 PARAGUAY", ABC TV FLOW
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ABCTV/EXPORTACION_WEB/SS/ABCTV_t-290x163.png" group-title="🇵🇾 PARAGUAY", ABC TV
-https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/2643036007742.png" group-title="🇵🇾 PARAGUAY", UNICANAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdkSYeQWCAiOfwvbcT8MiabXYI6ehMHTw3A&s" group-title="🇵🇾 PARAGUAY", 5 DIAS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZmg0k0fJFp46YuSqLMHqvChoADTKxehAK2WJYUEzWOB_8=s900-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 PARAGUAY", CANAL PRO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwhB45lMgIli7B6z1M2eoJolqsp7kiZ0acA&s" group-title="🇵🇾 PARAGUAY", NPY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvtKQvJkg4uksOaOmaIVeJjSs0-NwuJ92Hw&s" group-title="🇵🇾 PARAGUAY", C9N
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://lanacionpy.nyc3.cdn.digitaloceanspaces.com/img/gen/gen.jpg" group-title="🇵🇾 PARAGUAY", GEN TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2013/03/La-Tele.jpg?fit=500%2C375&ssl=1" group-title="🇵🇾 PARAGUAY", LA TELE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="🇵🇾 PARAGUAY", PARAVISION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="🇵🇾 PARAGUAY", SNT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7939/CH_LOGO/350/500/0/0/14415300071961.png" group-title="🇵🇾 PARAGUAY", PY-TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Paraguay_TV/SA_Live_dash_enc_C/Paraguay_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="🇵🇾 PARAGUAY", TELEFUTURO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="🇵🇾 PARAGUAY", RPC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4LJHDLxxHgJWKg5PmE1NMSEnvZdSVPHRFQ&s" group-title="🇵🇾 PARAGUAY", UNICANAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg" group-title="🇵🇾 PARAGUAY", CANAL PRO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9hqVmzy/descarga.png" group-title="🇵🇾 PARAGUAY", Union Tv
-https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="🇵🇾 PARAGUAY", MEGA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar"  tvg-logo="https://static.flow.com.ar/images/718/CH_LOGO/60/40/0/0/358638080777.png" group-title="🎬 PACK PREMIUM UNIVERSAL Y HBO", STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -663,573 +874,7 @@ https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="🇦🇷 ARGENTINA", CIUDAD MAGAZINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal7TWnlhy.png/150px-Canal7TWnlhy.png" group-title="🇦🇷 ARGENTINA", ENLACE
-http://multiextrem.xyz:80/play/q2BASytLPAB5mwoHTx5J9hSTaZOAOK3YEQl9Jp5z4-svfYMlTKi8F8wDaowkXDoK
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvN7HEybuqi5cATBqIDNouB6Kc5nVYBLZCA&usqp=CAU" group-title="🇦🇷 ARGENTINA", CANAL 26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Cronica-TV-en-vivo-Online.png" group-title="🇦🇷 ARGENTINA", CRONICA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg" group-title="🇦🇷 ARGENTINA", C5N
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="🇦🇷 ARGENTINA", LN+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png" group-title="🇦🇷 ARGENTINA", EL TRECE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 ARGENTINA", TELEFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="🇦🇷 ARGENTINA", AMERICA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="🇦🇷 ARGENTINA", TV PUBLICA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/canal-9-1.svg" group-title="🇦🇷 ARGENTINA", CANAL 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="🇦🇷 ARGENTINA", CANAL RURAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/encuentro-tv-canal8711.logowik.com.webp" group-title="🇦🇷 ARGENTINA", ENCUENTRO TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTicBSjzzkLtY5ttBxpE7zXOSlcuKIxWRPfQ&s" group-title="🇦🇷 ARGENTINA", VIAJAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ip-informacion-periodistica2524.logowik.com.webp" group-title="🇦🇷 ARGENTINA", INFORMACION PERIODISTICA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/a/a/6aa95365537efbae3fda880d015e4b95_icon.png" group-title="🇦🇷 ARGENTINA", TN NOTICIAS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="🇦🇷 ARGENTINA", A24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="⚽ DEPORTES ", TYC SPORT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg" group-title="⚽ DEPORTES ", UNIVERSO NBC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(universo-east)/master.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tyc-sports9267.logowik.com.webp" group-title="⚽ DEPORTES", TYC SPORT INTERNACIONAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="⚽ DEPORTES ", ESPN PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png" group-title="⚽ DEPORTES ", ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN 2 HD.ar" tvg-logo="https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png" group-title="⚽ DEPORTES ", ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN 3 HD.ar" tvg-logo="https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png" group-title="⚽ DEPORTES ", ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="ESPN 4 HD.ar" tvg-logo="https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png" group-title="⚽ DEPORTES ", ESPN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="⚽ DEPORTES ", ESPN 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="⚽ DEPORTES ", ESPN 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="⚽ DEPORTES ", ESPN 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="⚽ DEPORTES ", ESPN XTRA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="FOX SPORTS HD.ar" tvg-logo="https://i.postimg.cc/Y9TsRVch/IMG-20230917-115908-391.jpg" group-title="⚽ DEPORTES ", FOX SPORTS 1 AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2 HD.ar" tvg-logo="https://i.postimg.cc/bYbC8mc9/IMG-20230917-115913-481.jpg" group-title="⚽ DEPORTES ", FOX SPORTS 2 AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="FOX SPORTS 3 HD.ar" tvg-logo="https://i.postimg.cc/ht4pLgJ2/IMG-20230917-115910-727.jpg" group-title="⚽ DEPORTES ", FOX SPORTS 3 AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fsp.png" group-title="⚽ DEPORTES ", FOX SPORTS PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZoMge-dHp2cYNnVUJPPZmyMo56Er7ptsr7g&s" group-title="⚽ DEPORTES ", TNT SPORT ARGENTINA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JyBzQVp/f80c472f1f5707fddcd3da2fc2a53a42.jpg" group-title="⚽ DEPORTES ", PX SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="⚽ DEPORTES ", DEPORTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgWuXXX3upqHakHrwwNdLcf7l48AY_ky9CBQ&s" group-title="⚽ DEPORTES ", GARAGE TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/799px-Golf_Channel_Logo.png" group-title="⚽ DEPORTES ", GOLF CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkWiWd8vYFVFueySzA9YNrFBd3CvrtdEBYw&s" group-title="⚽ DEPORTES ", NBA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
-https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxMDA5NjAzIiwic2lwIjoiMTg2LjMzLjM1LjEwMiIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9obHNfZmFpcnBsYXkvIiwic2Vzc2lvbl9jZG5faWQiOiIyYjIyZDQzYWU1NWU3OTllIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ce7gLfb4mFLuHiJi6ijxmwDWbWZDT4kbNNn2mqlSN_IwPwUb88F0NlxbPDYgH0q4oShGXwehb3x5F2q5VtfdrA==//live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-id="COMBATE BR" tvg-name="COMBATE BR" tvg-logo="https://i.postimg.cc/nLbDkJLm/download-34.png" group-title="DEPORTES BRASIL",COMBATE BR
-https://latan.stonetv.com.br/combate/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-name="PREMIERE CLUBES" tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="DEPORTES BRASIL",PREMIERE CLUBES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-name="SPORTV 1 MPD" tvg-logo="https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg" group-title="DEPORTES BRASIL",SPORTV 1 MPD
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://i.postimg.cc/9MD3FkT1/download-12.png" group-title="DEPORTES BRASIL",ESPN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sinal.cc/link/direto.m3u8?cc=y&categoria=live&folder=docs&canal=rdc-espn?|referer=https://streamrdc.xyz/&origin=https://streamrdc.xyz
-
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.postimg.cc/SR4CnVVV/TUDN.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", TUDN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
-
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://i.postimg.cc/vm1Wk4cG/ESPNMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
-
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-logo="https://i.postimg.cc/Yqkz02yJ/ESPN2MX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
-
-#EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="https://i.postimg.cc/wBPkjhSn/ESPN3MX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
-
-#EXTINF:-1 tvg-id="ESPN4.mx" tvg-logo="https://i.postimg.cc/Z5wc1kjh/ESPN4MX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", ESPN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
-
-#EXTINF:-1 tvg-id="FSPremium.mx" tvg-logo="https://i.postimg.cc/mrd5NzK4/FSPREMIUMMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", FS Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b142f14eb5a1359c05587bb46773e42:bf064a17f8400c697ad99c84ef232bb0
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/6/out/u/dash/FOXSPORTSPREMIUMHDH265/default.mpd
-
-#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="https://i.postimg.cc/28f2W73B/FOXSPORTSMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", FOX Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9970931d7a8d720333b8d3af89af42da:38c533f447c7eb4c176b2684cc3c76f1
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/7/out/u/dash/FOXSPORTSHDH265/default.mpd
-
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-logo="https://i.postimg.cc/N00NMGLM/FOXSPORTS2MX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", FOX Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfaf8dcd06c9eba4c51f003a55fe71fa:061aae83fe54eb57e49ebee698f0aa6d
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/6/out/u/dash/FOXSPORTS2HDH265/default.mpd
-
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-logo="https://i.postimg.cc/BQx77wRd/FOXSPORTS3MX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", FOX Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8286375a3a61c1758e7628b7f6d2631b:a11c0a81c263f5b1f5dc5661865c0ff9
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/7/out/u/dash/FOXSPORTS3HDH265/default.mpd
-
-#EXTINF:-1 tvg-id="LatinAmericanSports.mx" tvg-logo="https://i.postimg.cc/m2MKfrFR/LATIN-AMERICAN-SPORTS.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", LATIN AMERICAN SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9213bfbf7c02e1beada75dbd389608a5:a8a48bd40a1a62e6258a85e683a7fa78
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/4/out/u/dash/LATINAMERICANSPORTSHD/default.mpd
-
-#EXTINF:-1 tvg-id="BeisbolLatino.mx" tvg-logo="https://i.postimg.cc/4nCvQsJp/BEISBOL-LATINO.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", BEISBOL LATINO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5dbf14888bd99a7b01a3c9b0386c29ed:1ee5f6042b292cfb366e5b2ec27ecf22
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd
-
-#EXTINF:-1 tvg-id="BasketAmericas.mx" tvg-logo="https://i.postimg.cc/766NxKsL/BASKET-AMERICAS.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", BASKET AMERICAS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3377df9a3e3ce7735793541deb49657a:df55b7df0f5d3fdb34ff56977aa7339d
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd
-
-#EXTINF:-1 tvg-id="CombatV.mx" tvg-logo="https://i.postimg.cc/kgQsw660/COMBATV.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", COMBATV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d82fc67b0ad0eac6a3f5cadc6e515796:c9bb81474744fd82c379427312895636
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/15/out/u/dash/COMBATV-HD/default.mpd
-
-#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://i.postimg.cc/pVSsdtM4/ITVDEPORTESMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", ITV DEPORTES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f545b12ce0f263324e4c544e1db07f22:36f0870c64125268785f692c98aa12cf
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/8/out/u/dash/ITV-DEPORTES-HD-H265/default.mpd
-
-#EXTINF:-1 tvg-id="HiSports.mx" tvg-logo="https://i.postimg.cc/1zSCZc1S/HISPORTSMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", Hi Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2966ad533e52a19c3ded1c7b9e40370:2e0bb20e3edb3ce7fc0d616b3ff28748
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/2/out/u/dash/HISPORTSSD/default.mpd
-
-#EXTINF:-1 tvg-id="RealMadridTV.mx" tvg-logo="https://i.postimg.cc/vZVkyZ1L/REALMADRIDTVMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", Real Madrid TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77e93f69c2d4c23e2cf8dc9e892f4ac7:71a786d7774d6df4487494145db485a4
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/4/out/u/dash/REALMADRIDHD/default.mpd
-
-#EXTINF:-1 tvg-id="MexicoAlAireLibre.mx" tvg-logo="https://i.postimg.cc/zvQ2msqm/MEXICOALAIRELIBRE.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", MEXICO AL AIRE LIBRE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12134b1ade9e2c55be144a1216e8e5fa:10c49aabd94518ccd4b8c3f7fd2bacdb
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/12/out/u/dash/MEXICO-AL-AIRE-LIBRE-HD/default.mpd
-
-#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-logo="https://i.postimg.cc/bJ3FgGMh/GOLFCHANNELMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", Golf Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd45f6a37a3887044bac88a63e55b70e:2dff34fba01dd53d0a37dc913bb9ba51
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/1/out/u/dash/GOLFCHANNELHD/default.mpd
-
-#EXTINF:-1 tvg-id="PXSports.mx" tvg-logo="https://i.postimg.cc/4y8kY2ZP/PXSPORTSMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", PX Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/4/out/u/dash/PXSPORTSHD/default.mpd
-
-#EXTINF:-1 tvg-id="NBATV.mx" tvg-logo="https://i.postimg.cc/Zq6G854p/NBATVMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", NBA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd
-
-#EXTINF:-1 tvg-id="NFLNetwork.mx" tvg-logo="https://i.postimg.cc/T1NFdyJT/NFLMX.png" group-title="🇲🇽DEPORTES MEXICO🇲🇽", NFL Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812232ec802794f7f0aedfdd82bb13d2:3c6a93ae956f0fc504b62983db808bad
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/6/out/u/dash/NFLHDH265/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Sports" tvg-logo="https://i.postimg.cc/Y2y78pjd/SKYSPORTS.png" group-title="⚽ DEPORTES VARIADOS", SKY Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Sports 2" tvg-logo="https://i.postimg.cc/ZKGStV8F/SKYSPORTS2.png" group-title="⚽ DEPORTES VARIADOS", SKY Sports 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY LaLiga" tvg-logo="https://i.postimg.cc/QMksq1Wp/SKYSPORTSLALIGA.png" group-title="⚽ DEPORTES VARIADOS", SKY LaLiga
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Bundesliga" tvg-logo="https://i.postimg.cc/sx1ryLH0/SKYSPORTSBUNDESLIGA.png" group-title="⚽ DEPORTES VARIADOS", SKY Bundesliga
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Sports F1" tvg-logo="https://i.postimg.cc/FRHtgqvR/SKYSPORTSF1-2.png" group-title="⚽ DEPORTES VARIADOS", SKY Sports F1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Evento 1" tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png" group-title="⚽ DEPORTES VARIADOS", SKY Evento 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Evento 2" tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png" group-title="⚽ DEPORTES VARIADOS", SKY Evento 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Evento 3" tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png" group-title="⚽ DEPORTES VARIADOS", SKY Evento 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Evento 4" tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png" group-title="⚽ DEPORTES VARIADOS", SKY Evento 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Evento 5" tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png" group-title="⚽ DEPORTES VARIADOS", SKY Evento 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Evento 6" tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png" group-title="⚽ DEPORTES VARIADOS", SKY Evento 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Evento 7" tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png" group-title="⚽ DEPORTES VARIADOS", SKY Evento 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
-
-#EXTINF:-1 tvg-id="SKY Evento 8" tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png" group-title="⚽ DEPORTES VARIADOS", SKY Evento 8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53781c79161716b27ddfa70a8671cb9a:ec747fe222e238a6511202ce89a03df1
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
-https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
-
-#EXTINF:-1 group-title="Argentina"  tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" tvg-group="Noticias", A24
-https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
-#EXTINF:-1 group-title="Argentina"  tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" tvg-group="Noticias", C5N
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
-#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 26.uy" tvg-name="CAN26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" tvg-group="Noticias", Canal 26
-https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
-#EXTINF:-1 group-title="Argentina"  tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" tvg-group="Noticias", Crónica
-https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
-#EXTINF:-1 group-title="Argentina"  tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" tvg-group="Noticias", La Nación +
-https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
-#EXTINF:-1 group-title="Argentina"  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" tvg-group="Noticias", TN
-https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
-#EXTINF:-1  tvg-id="Television Pública.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Argentina", TV Pública
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
-#EXTINF:-1 group-title="Argentina"  tvg-id="Canal 9.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" tvg-group="Nacionales", El nueve
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
-#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/160/160/0/0/7476260107885.png" group-title="Córdoba",Canal 10 Córdoba
-https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
-#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina", Telefé
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 ch-number="11" tvg-id="Telefe Rosario.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1081/CH_LOGO/160/160/0/0/86810730078.png" group-title="Santa Fe", Telefé Rosario
-https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
-
-#EXTINF:-1 ch-number="11" tvg-id="Telefe Santa Fe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/160/160/0/0/7886775407228.png" group-title="Santa Fe", Telefé Santa Fé
-https://cdn.sensa.com.ar/output/COR/TSFH/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTINF:-1  ch-number="" tvg-id="Telefe Cordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/160/160/0/0/887528030752.png" group-title="Córdoba", Telefé Córdoba
-https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
-#EXTINF:-1 ch-number="12" tvg-id="eldoce tvg-name="Canal 12.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/589/CH_LOGO/160/160/0/0/51636269072.png" group-title="Córdoba", El Doce Córdoba
-https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
-#EXTINF:-1  ch-number="13" tvg-id="el13" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="Argentina", El Trece
-https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
-#EXTINF:-1 group-title="Argentina"  tvg-id="America.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" tvg-group="Nacionales", América
-https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
-#EXTINF:-1 group-title="Argentina"  tvg-id="Net TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png" tvg-group="Nacionales", Net TV
-https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
-#EXTINF:-1  tvg-id="126#Bravo TV (ARG)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2561/CH_LOGO/160/160/0/0/23653274077154.png" group-title="Argentina", Bravo TV
-https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
-#EXTINF:-1 group-title="Argentina"  tvg-id="CANAL E" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2562/CH_LOGO/160/160/0/0/11035030078196.png" tvg-group="Noticias", Canal E
-https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
-#EXTINF:-1  tvg-id="Ciudad Magazine.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png" group-title="Argentina", Ciudad Magazine
-https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a7ecf0c34695dd4e253574b0b85441e:e6518e0b5dfa5e0dc268a5b16106811b
-#EXTINF:-1   tvg-id="Volver.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="Argentina", Volver
-https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
-#EXTINF:-1  tvg-id="Canal Rural.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/59/CH_LOGO/160/160/0/0/446602280711.png" group-title="Argentina", Canal Rural
-https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
-#EXTINF:-1  tvg-id="Chacra TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/591/CH_LOGO/160/160/0/0/44952019073840.png" group-title="Argentina", Chacra TV
-https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/160/160/0/0/62114771072283.png" group-title="Corrientes", T5 Satelital
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
-#EXTINF:-1  tvg-id="CineAr.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png" group-title="Argentina", Cine.AR
-https://cdn.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
-#EXTINF:-1  tvg-id="Encuentro.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" group-title="Argentina", Encuentro
-https://cdn.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed25b5db60330e7ea14e3bf007db0797:9b378d59f78e04e697ca958b1dd69ca7
-#EXTINF:-1  tvg-id="Argentinísima Satelital.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4027/CH_LOGO/160/160/0/0/480102480757.png" group-title="Argentina", Argentinísima Satelital
-https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
-#EXTINF:-1 tvg-id="EL DESTAPE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/160/160/0/0/49015720078226.png" group-title="Argentina", El Destape
-https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 deportes (100xx)
 
