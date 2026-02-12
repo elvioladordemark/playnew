@@ -28,6 +28,110 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTINF:-1 tvg-name="EVENTOS 3 PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg" group-title="EVENTO PY🇵🇾" type="channel",EVENTOS 3 PY
 https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
 
+#EXTINF:-1 tvg-id="ESPN SUR" tvg-logo="https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", ESPN SUR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", ESPN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_wl/ESPN2_Arg.mpd
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", ESPN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", ESPN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", ESPN 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", ESPN 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd
+
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", ESPN 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3" tvg-logo="https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcwOTI5MTMxIiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFjMDEyYjZiYTc5MTg2MDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.uszylBmqLfII6t31KAUvjk3dBw6SusSMtuQGcKZJUUYknTTl0OENNhd6FRM-5ziIg80y18hTjx2-GL2OUqomMw==/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
+
+#EXTINF:-1 tvg-id="FOX ONE" tvg-logo="" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", FOX ONE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b9f674aca77e6e2d9e087d744ef9518:9c79efe8f7510efe6a768ac4be5f93ff
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.cdnclaroamx.com/&webtoken=1.0
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONEMX_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="FOX ONE 1" tvg-logo="" group-title="⚽DEPORTES ESPN Y FOX SPORTS ​🇦🇷", FOX ONE 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da13bd9d503a6d8bbe34f9b185dfe521:787ecfe954108c152284ec89e379d7eb
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cdnclaroamx.com&Referer=https://www.cdnclaroamx.com/&Webtoken=1.0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE1MX_HD)/manifest.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.postimg.cc/0QP6WwKq/download-27.png" group-title="PARAGUAY SIN BLOQUEO",ABC TV
+https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.mpd
+
+#EXTINF:-1 tvg-name="ÑANDUTI TV" tvg-logo="https://i.postimg.cc/jjGRjwYk/download-29.png" group-title="PARAGUAY SIN BLOQUEO",ÑANDUTI TV
+https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w573748842.m3u8
+
+#EXTINF:-1 tvg-name="SNT" tvg-logo="https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png" group-title="PARAGUAY SIN BLOQUEO",SNT
+https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
+
+#EXTINF:-1 tvg-name="SNT OPC 2" tvg-logo="https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png" group-title="PARAGUAY SIN BLOQUEO",SNT OPC 2
+https://latan.stonetv.com.br/snt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="C9N" tvg-logo="https://i.postimg.cc/RZxvLznK/download-60.jpg" group-title="PARAGUAY SIN BLOQUEO",C9N
+https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
+
+#EXTINF:-1 tvg-name="C9N OPC 2" tvg-logo="https://i.postimg.cc/RZxvLznK/download-60.jpg" group-title="PARAGUAY SIN BLOQUEO",C9N OPC 2
+https://latan.stonetv.com.br/C9N/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TELEFUTURO" tvg-logo="https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png" group-title="PARAGUAY SIN BLOQUEO",TELEFUTURO
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1646247867.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-name="NPY PY" tvg-logo="https://i.postimg.cc/g0GvTJ7b/download-65.jpg" group-title="PARAGUAY SIN BLOQUEO",NPY PY
+https://copacotf.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-name="GEN PY" tvg-logo="https://i.postimg.cc/766s2fHs/download-59.jpg" group-title="PARAGUAY SIN BLOQUEO",GEN PY
+https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/index.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-name="POPU TV PY" tvg-logo="https://i.postimg.cc/qvZqcF4t/download-61.jpg" group-title="PARAGUAY SIN BLOQUEO",POPU TV PY
+https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/index.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-name="UNICANAL PY" tvg-logo="https://i.postimg.cc/5t2xrS9D/download-64.jpg" group-title="PARAGUAY SIN BLOQUEO",UNICANAL PY
+https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8
+
+#EXTINF:-1 tvg-name="LA TELE" tvg-logo="https://i.postimg.cc/9Xx2K7wd/download-58.jpg" group-title="PARAGUAY SIN BLOQUEO",LA TELE
+https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
+
+
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9417/CH_LOGO/60/40/0/0/17713754078317.png" group-title="🇵🇾 PARAGUAY", UNIVERSO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41ca5477db3048dbf731fc12604c7504:6c7e8e96a86333cbfb4771cbfe9f6b4b
