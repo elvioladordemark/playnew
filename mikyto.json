@@ -133,7 +133,7 @@ https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
 
-#EXTINF:-1 tvg-name="SKY Bundesliga" tvg-logo="https://i.postimg.cc/sx1ryLH0/SKYSPORTSBUNDESLIGA.png" group-title="⚽ DEPORTES VARIADOS",SKY Bundesliga
+#EXTINF:-1 tvg-name="SKY Bundesliga" tvg-logo="https://i.postimg.cc/sx1ryLH0/SKYSPORTSBUNDESLIGA.png"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -141,7 +141,7 @@ https://zap-live2-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
 
-#EXTINF:-1 tvg-name="SKY Sports F1" tvg-logo="https://i.postimg.cc/FRHtgqvR/SKYSPORTSF1-2.png" group-title="⚽ DEPORTES VARIADOS",SKY Sports F1
+#EXTINF:-1 tvg-name="SKY Sports F1" tvg-logo="https://i.postimg.cc/FRHtgqvR/SKYSPORTSF1-2.png"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2539,6 +2539,7 @@ https://cdn.adultiptv.net/anal.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="ADULTOSADULTOS",MYCAM2
 https://cdn.adultiptv.net/bigass.m3u8
+
 
 
 
