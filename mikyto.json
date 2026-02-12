@@ -152,7 +152,7 @@ https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.izzigo.tv&Referer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd
-#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YScqRtDr/SKYSPORTSEVENTOS.png",SKY Evento 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -218,10 +218,9 @@ https://zap-live2-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
-
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.postimg.cc/SR4CnVVV/TUDN.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",TUDN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SR4CnVVV/TUDN.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",TUDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
@@ -229,7 +228,7 @@ https://zap-live2-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
 
-#EXTINF:-1 tvg-name="ESPN MX" tvg-logo="https://i.postimg.cc/vm1Wk4cG/ESPNMX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",ESPN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm1Wk4cG/ESPNMX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",ESPN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
@@ -237,7 +236,7 @@ https://zap-live2-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
 
-#EXTINF:-1 tvg-name="ESPN 2 MX" tvg-logo="https://i.postimg.cc/Yqkz02yJ/ESPN2MX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqkz02yJ/ESPN2MX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",ESPN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
@@ -245,7 +244,23 @@ https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
 
-#EXTINF:-1 tvg-name="FOX Sports Premium MX" tvg-logo="https://i.postimg.cc/mrd5NzK4/FSPREMIUMMX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",FOX Sports Premium
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBPkjhSn/ESPN3MX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",ESPN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5wc1kjh/ESPN4MX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",ESPN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrd5NzK4/FSPREMIUMMX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",FOX Sports Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b142f14eb5a1359c05587bb46773e42:bf064a17f8400c697ad99c84ef232bb0
@@ -253,7 +268,31 @@ https://zap-live2-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/6/out/u/dash/FOXSPORTSPREMIUMHDH265/default.mpd
 
-#EXTINF:-1 tvg-name="NBA TV MX" tvg-logo="https://i.postimg.cc/Zq6G854p/NBATVMX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",NBA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28f2W73B/FOXSPORTSMX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",FOX Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9970931d7a8d720333b8d3af89af42da:38c533f447c7eb4c176b2684cc3c76f1
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/7/out/u/dash/FOXSPORTSHDH265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N00NMGLM/FOXSPORTS2MX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",FOX Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfaf8dcd06c9eba4c51f003a55fe71fa:061aae83fe54eb57e49ebee698f0aa6d
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/6/out/u/dash/FOXSPORTS2HDH265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQx77wRd/FOXSPORTS3MX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",FOX Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8286375a3a61c1758e7628b7f6d2631b:a11c0a81c263f5b1f5dc5661865c0ff9
+#EXTVLCOPT:http-origin=https://www.izzigo.tv
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+https://zap-live2-ott.izzigo.tv/7/out/u/dash/FOXSPORTS3HDH265/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq6G854p/NBATVMX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",NBA TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
@@ -261,13 +300,14 @@ https://zap-live2-ott.izzigo.tv/6/out/u/dash/FOXSPORTSPREMIUMHDH265/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd
 
-#EXTINF:-1 tvg-name="NFL Network MX" tvg-logo="https://i.postimg.cc/T1NFdyJT/NFLMX.png" group-title="🇲🇽 DEPORTES MÉXICO 🇲🇽",NFL Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1NFdyJT/NFLMX.png" group-title="🇲🇽 DEPORTES MEXICO 🇲🇽",NFL Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812232ec802794f7f0aedfdd82bb13d2:3c6a93ae956f0fc504b62983db808bad
 #EXTVLCOPT:http-origin=https://www.izzigo.tv
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 https://zap-live2-ott.izzigo.tv/6/out/u/dash/NFLHDH265/default.mpd
+
 
 
 
@@ -2503,4 +2543,5 @@ https://cdn.adultiptv.net/anal.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="ADULTOSADULTOS",MYCAM2
 https://cdn.adultiptv.net/bigass.m3u8
+
 
