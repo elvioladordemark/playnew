@@ -113,29 +113,64 @@ https://www.dailymotion.com/cdn/live/video/x9ko9z8.m3u8?sec=YwDOS-OTR1uMDYcWoMVs
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-id="Win Sports 🇨🇴" tvg-logo="https://files.winsports.co/assets/public/logo_winsports_032023_0.png" group-title="TV DEPORTES 📺", Win Sports 🇨🇴
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://217.26.190.76:8888/play/a06a/index.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-id="MOVISTAR DEPORTES 🇨🇴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="TV DEPORTES 📺", MOVISTAR DEPORTES 🇨🇴
+#EXTINF:-1 tvg-name="ESPN" group-title="DEPORTES",ESPN
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://209.45.81.84:8000/play/a03q/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31bd1c2d7ec744919f9438b166f575d3:08a8df7583e02f9eba7b0cf77207340b
+https://bvclive1.boldmss.com/ESPN/ESPN_BVC.isml/ESPN.mpd
 
-#EXTINF:-1 tvg-id="GOL PERU 🇵🇪" tvg-logo="https://tiendagolperu.com/wp-content/uploads/2020/01/GOLPERU-LOGO.png" group-title="TV DEPORTES 📺", GOL PERU 🇵🇪
+#EXTINF:-1 tvg-name="ESPN 2" group-title="DEPORTES",ESPN 2
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://209.45.81.84:8000/play/a03r/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de55d232455b445aaddb4ef73d82145f:e570e15beb1a447a5e3f91fedfd01c73
+https://bvclive1.boldmss.com/ESPN_2/ESPN_2_BVC.isml/ESPN_2.mpd
 
-#EXTINF:-1 tvg-id="LIGA 1 MAX 🇵🇪" tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/what_is_l1max_309897af0d.png" group-title="TV DEPORTES 📺", LIGA 1 MAX 🇵🇪
+#EXTINF:-1 tvg-name="ESPN 3" group-title="DEPORTES",ESPN 3
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://209.45.81.84:8000/play/a00c/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3646c79dcff4a0e93c519541bac9830:0fdbf788cb1a393a5f1f3bc43254eae9
+https://bvclive1.boldmss.com/ESPN_3/ESPN_3_BVC.isml/ESPN_3.mpd
 
-#EXTINF:-1 tvg-id="CDN Deportes 🇩🇴" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="TV DEPORTES 📺", CDN Deportes 🇩🇴
+#EXTINF:-1 tvg-name="TyC Sports" group-title="DEPORTES",TyC Sports
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://200.125.170.122:8000/play/a03j/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=590d41f273cd4a2a87634e2248570974:071b942bfdb44a396f40d7a6ab9c6b75
+https://bvclive1.boldmss.com/TYC_SPORTS/TYC_SPORTS_BVC.isml/TYC_SPORTS.mpd
 
-#EXTINF:-1 tvg-id="FUTBOL CANAL 🇧🇴" tvg-logo="https://i.postimg.cc/brDLmRwS/liga-de-bolivia.png" group-title="TV DEPORTES 📺", FUTBOL CANAL 🇧🇴
+#EXTINF:-1 tvg-name="TyC Sports 2" group-title="DEPORTES",TyC Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/98493
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=090604e982684762a8f8bf752c110b61:bd39fbeeb70aae5322fc163831cc2f8a
+https://bvclive1.boldmss.com/TYC_SPORTS_2/TYC_SPORTS_2_BVC.isml/TYC_SPORTS_2.mpd
+
+#EXTINF:-1 tvg-name="FOX Sports" group-title="DEPORTES",FOX Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5f7d1ed0c244ecfb2d7d85a1d78c7c8:1ab45030c16086ccd5e942c478836926
+https://bvclive1.boldmss.com/FOX_SPORTS/FOX_SPORTS_BVC.isml/FOX_SPORTS.mpd
+
+#EXTINF:-1 tvg-name="FOX Sports 2" group-title="DEPORTES",FOX Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae10ae5ce614113bab224f38f24e81f:0ac6ad6ca5dd20f204e79f7fc6d744c3
+https://bvclive1.boldmss.com/FOX_SPORTS_2/FOX_SPORTS_2_BVC.isml/FOX_SPORTS_2.mpd
+
+#EXTINF:-1 tvg-name="FOX Sports 3" group-title="DEPORTES",FOX Sports 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=690723060cb04c34932a5a3d8ef23d86:745b11ae7e764ad46b058548e4dfe234
+https://bvclive1.boldmss.com/FOX_SPORTS_3/FOX_SPORTS_3_BVC.isml/FOX_SPORTS_3.mpd
+
 
 #EXTINF:-1 tvg-id="ESPN Premium HD 🇦🇷" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="⚽DEPORTES SIN BLOQUEOS 📺", ESPN Premium HD 🇦🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5602,6 +5637,7 @@ http://goovdme.967sd1f.homes/vod/E9949E1699A142D6BAA31D026EF6A68E_media.ts
 #EXTINF:-1 tvg-id="Enemigo invisible" tvg-logo="https://image.tmdb.org/t/p/original/9NGQs6IB5DyD3lssfLX0B6YZ7yf.jpg" group-title="BÉLICA", Enemigo invisible
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://vddgcoud02.gd34fdldh.xyz/vod/2EAB8E77B2144F29874CE98A19BDC134_media.ts
+
 
 
 
