@@ -40,6 +40,259 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3104af5254534d43a98319238dcb6f00:8f4af52cf6c144a6499244e542d92680
 https://sam-py-edge01.tigo.com.py/ccur-session/e319b1151f2d4f6682d5ccbb56be311417486357322181b65a320aeed11ebae01d90082191a3cTfPoq7bcpzIioW1uMA4mxQSR/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+.gigared.com.ar/live/eds/Comedy_Central/sa_live_dash/Comedy_Central.mpd
+
+
+
+#EXTINF:-1 group-title="ARG | LOCALES",Canal Local Gigared Corrientes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0861a93feb64c963a2844caa9c53f2a2:e0c0acd81206879243405fb1e166e333
+https://cdn03.gigared.com.ar/live/eds/Canal_Local_Gigared_Corrientes/sa_live_dash/Canal_Local_Gigared_Corrientes.mpd
+
+#EXTINF:-1 group-title="ARG | ABIERTOS",América TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32392e5868873c91ca77a0406b3d32d8:0f74f66dbeda0bb43b32445ea74d2087
+https://cdn03.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd
+
+#EXTINF:-1 group-title="ARG | NOTICIAS",TN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5bb6f9ef3b632b7ba2797048b4941a0:53f33a7ab0729daee5dbe8ecc8ee2c08
+https://cdn03.gigared.com.ar/live/eds/TN/sa_live_dash/TN.mpd
+
+#EXTINF:-1 group-title="ARG | NOTICIAS",C5N
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b47d87494bd17dd7acf86ebb6c3a32:5df76e3d86d8d88799c52eae263d08b0
+https://cdn03.gigared.com.ar/live/eds/C5N/sa_live_dash/C5N.mpd
+
+#EXTINF:-1 group-title="ARG | DEPORTES",TyC Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac7b52cb14661fe3db0449020791d97:0c2780acce4ef9d7334ef25be445ceb4
+https://cdn03.gigared.com.ar/live/eds/TyC_Sports/sa_live_dash/TyC_Sports.mpd
+
+#EXTINF:-1 group-title="ARG | DEPORTES",ESPN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
+https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
+
+#EXTINF:-1 group-title="ARG | DEPORTES",ESPN 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
+https://cdn03.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
+
+#EXTINF:-1 group-title="ARG | DEPORTES",ESPN 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad0c72e30648501377425a62a2bf095c:2cfbc73f423203a9fc8a1d983ec4e8bb
+https://cdn02.gigared.com.ar/live/eds/ESPN3/sa_live_dash/ESPN3.mpd
+
+#EXTINF:-1 group-title="ARG | DEPORTES",ESPN 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecafef3b8979c737d05ea191a02b7617:f46cd12052b0da221a3a178e2bde0162
+https://cdn03.gigared.com.ar/live/eds/ESPN4/sa_live_dash/ESPN4.mpd
+
+#EXTINF:-1 group-title="ARG | CINE",TNT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d9e8eb8d97c4ff0dbfb02c3c417ae48:a426cb9e3ff4cac8b2e153ef54e69072
+https://cdn03.gigared.com.ar/live/eds/TNT/sa_live_dash/TNT.mpd
+
+
+#EXTINF:-1 tvg-name="FX" group-title="ENTRETENIMIENTO",FX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b060d6864d9b870b3a5f43c10370977c:7a9104e80a2bd14429ad4c877a9926b5
+https://cdn03.gigared.com.ar/live/eds/FX/sa_live_dash/FX.mpd
+
+#EXTINF:-1 tvg-name="Star Channel" group-title="ENTRETENIMIENTO",Star Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8e3594a2280a1f0b749d66dccfab99:efa66c01f0e96775398994f1754be46b
+https://cdn03.gigared.com.ar/live/eds/Star_Channel/sa_live_dash/Star_Channel.mpd
+
+#EXTINF:-1 tvg-name="Sony Channel" group-title="ENTRETENIMIENTO",Sony Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2e6c6842391fd4d9dfe3c047e286eb4:7d563478e5669d44cec9a6215052fec3
+https://cdn02.gigared.com.ar/live/eds/Sony_Channel/sa_live_dash/Sony_Channel.mpd
+
+#EXTINF:-1 tvg-name="Universal TV" group-title="ENTRETENIMIENTO",Universal TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=281ed03234dce7e50391f9c4c7c90b48:148c12b5c4526f3f7ab70f385cb36fac
+https://cdn02.gigared.com.ar/live/eds/Universal/sa_live_dash/Universal.mpd
+
+#EXTINF:-1 tvg-name="AXN" group-title="ENTRETENIMIENTO",AXN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bac0cdbf2e5a82fb27818e30bc8b75e5:478bda16b7bbb4d01928270159771bd9
+https://cdn02.gigared.com.ar/live/eds/AXN/sa_live_dash/AXN.mpd
+
+#EXTINF:-1 tvg-name="Studio Universal" group-title="ENTRETENIMIENTO",Studio Universal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68987b791521decfbe5dd633a3c15dc5:cff99d15661b3e8393d9ac9dd9a89869
+https://cdn03.gigared.com.ar/live/eds/Studio_Universal/sa_live_dash/Studio_Universal.mpd
+
+#EXTINF:-1 tvg-name="A&E" group-title="ENTRETENIMIENTO",A&E
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e45fe47af35c23962a3cc0ada9119f0:84f178941bbcedca8d43926b69cca9b1
+https://cdn02.gigared.com.ar/live/eds/AyE/sa_live_dash/AyE.mpd
+
+#EXTINF:-1 tvg-name="USA Network" group-title="ENTRETENIMIENTO",USA Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=072f31c5b5238da0d3b54b2a79e7a7d9:984532822dc6ff3be1ffc56b0686d290
+https://cdn03.gigared.com.ar/live/eds/USA_Network/sa_live_dash/USA_Network.mpd
+
+#EXTINF:-1 tvg-name="AMC" group-title="ENTRETENIMIENTO",AMC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d60a3128c3cbe6c2728ccca61f55a87f:1cc37b6959b6f9e7f70532604d1e8ed1
+https://cdn02.gigared.com.ar/live/eds/AMC/sa_live_dash/AMC.mpd
+
+#EXTINF:-1 tvg-name="Golden" group-title="CINE",Golden
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=384a49756e9d5247537404c487edf312:72e31a1d402eb30584c541736267f478
+https://cdn02.gigared.com.ar/live/eds/Golden/sa_live_dash/Golden.mpd
+
+#EXTINF:-1 tvg-name="Sony Movies" group-title="CINE",Sony Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4201cacd22f7a4f3bb6db354c9ac9d75:f43bbaf105697ac3f8ff4c69ee30967f
+https://cdn02.gigared.com.ar/live/eds/Sony_Movies/sa_live_dash/Sony_Movies.mpd
+
+#EXTINF:-1 tvg-name="Eurochannel" group-title="CINE",Eurochannel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee22649f9cf24a09c8e2d7f527b61ab6:5f4f4cf346468adb895a5b5d5edd9a72
+https://cdn03.gigared.com.ar/live/eds/Eurochannel/sa_live_dash/Eurochannel.mpd
+
+#EXTINF:-1 tvg-name="Golden Plus" group-title="CINE",Golden Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2127eb2cb9152cb1a21815cf423b7114:3a1715592b6916bb3c2e7e477c5441bd
+https://cdn03.gigared.com.ar/live/eds/Golden_Plus/sa_live_dash/Golden_Plus.mpd
+
+#EXTINF:-1 tvg-name="ID" group-title="DOCUMENTALES",Investigation Discovery
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54c693fe580f7a376d3a4ffcbaff2377:64f7f672af645bd14c26f598e65ca686
+https://cdn02.gigared.com.ar/live/eds/Investigation_discovery/sa_live_dash/Investigation_discovery.mpd
+
+#EXTINF:-1 tvg-name="Comedy Central" group-title="ENTRETENIMIENTO",Comedy Central
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2ef982ad8e10b04abb16ecfe4deab17:c9ec0f4087a3cd993de0a0dcb0a8a86b
+https://cdn02.gigared.com.ar/live/eds/Comedy_Central/sa_live_dash/Comedy_Central.mpd
+
+#EXTINF:-1 tvg-name="Cine Familiar" group-title="CINE",Cine Familiar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=721b4557143c8a37ec427423785875e5:3b76efe869910f4d86012915422a5b89
+https://cdn02.gigared.com.ar/live/eds/Cine_Familiar/sa_live_dash/Cine_Familiar.mpd
+
+#EXTINF:-1 tvg-name="Cine Premium" group-title="CINE",Cine Premium
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=670ffd29bd6ada72170188ed785f7e2f:7fa7edadd763531e133bf4a1aef51ce3
+https://cdn02.gigared.com.ar/live/eds/Cine_Premium/sa_live_dash/Cine_Premium.mpd
+
+#EXTINF:-1 tvg-name="Telenovelas" group-title="ENTRETENIMIENTO",Telenovelas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=214c0efa71c1ac68be8143b18e4a5a52:dbd58022cf2f0f6c69e979a54346cc8b
+https://cdn03.gigared.com.ar/live/eds/Telenovelas/sa_live_dash/Telenovelas.mpd
+
+#EXTINF:-1 tvg-name="El Gourmet" group-title="LIFESTYLE",El Gourmet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9034121a55c5254270a7fc87e6b933c:630f14e9ca88c92a25af19834bbf01d6
+https://cdn02.gigared.com.ar/live/eds/El_Gourmet/sa_live_dash/El_Gourmet.mpd
+
+#EXTINF:-1 tvg-name="E! Entertainment" group-title="ENTRETENIMIENTO",E! Entertainment
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a67b85023aec0c096831b2b0373715fd:be97d3955e711dfa12237416a1b9ad52
+https://cdn03.gigared.com.ar/live/eds/E_Entertainment/sa_live_dash/E_Entertainment.mpd
+
+#EXTINF:-1 tvg-name="Discovery H&H" group-title="DOCUMENTALES",Discovery H&H
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=270233c3621c173ad74f16aa6ba367ac:b39c8748f7f7530b1591c3a2ee0a3703
+https://cdn03.gigared.com.ar/live/eds/Discovery_HyH/sa_live_dash/Discovery_HyH.mpd
+
+#EXTINF:-1 tvg-name="TLC" group-title="DOCUMENTALES",TLC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=28f91c97b02842d14c2196467d9f22ec:07167c215250ae056a8f5dfb9b80d3a4
+https://cdn02.gigared.com.ar/live/eds/TLC/sa_live_dash/TLC.mpd
+
+#EXTINF:-1 tvg-name="Nat Geo" group-title="DOCUMENTALES",National Geographic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa5e6dae90f144937f1cf638460efe13:284534e78bb04505bae9b484b2dc1537
+https://cdn02.gigared.com.ar/live/eds/Nat_Geo/sa_live_dash/Nat_Geo.mpd
+
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="DOCUMENTALES",Discovery Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=142c0c050c551486e07bc210a1357da6:0dbbc07185e4650e1a05dbbcb888909f
+https://cdn03.gigared.com.ar/live/eds/Discovery_Channel/sa_live_dash/Discovery_Channel.mpd
+
+#EXTINF:-1 tvg-name="Animal Planet" group-title="DOCUMENTALES",Animal Planet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eded9e86a760b6e23d1ce1d80b85484:74e74a9ea3933219454c81f28ade93a8
+https://cdn02.gigared.com.ar/live/eds/Animal_Planet/sa_live_dash/Animal_Planet.mpd
+
+
+
+
 
 #EXTINF:-1 tvg-id="ABC TV" tvg-logo="https://i.postimg.cc/0QP6WwKq/download-27.png" group-title="PARAGUAY SIN BLOQUEO", ABC TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -605,6 +858,9 @@ https://cdn-py.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Spo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU0MDA2MTYzIiwic2lwIjoiMTgxLjEyNC4xMzIuMzEiLCJwYXRoIjoiL2xpdmUvYzdlZHMvVG9kb05vdGljaWFzL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRiNDRmOTkzYjY0NDQ2N2UiLCJzZXNzaW9uX2lkIjoiODE2MTYzMzAtMTc1MzgzMzM2My0zMDEiLCJjbGllbnRfaWQiOiIxMzE2MDg4MSIsImRldmljZV9pZCI6IjgxNjE2MzMwIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTM5Iiwic291cmNlcyI6Wzg1LDg2LDg4XX0=.Uiuivhy4_SPUEN1hs2bRjR0vh1TPatrPB3kZIRs2vUu90-tCpuiytw5EMCnPKueDuUOxIoFfkQI5pDQII5c46A==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="⚽ DEPORTES DIRECTV ARG", DIRECTV SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1281,93 +1537,7 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 https://video.hostingcaaguazu.com:19360/regionalnetworkstv/regionalnetworkstv.m3u8
 
-#EXTINF:-1 tvg-id="ESPN SUR 2" tvg-logo="https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png" group-title="⚽DEPORTES ESPN SUR 🇦🇷", ESPN SUR 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://bantel-cdn4.iptvperu.tv:1935/Ff8cjS/espn2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN SUR 3" tvg-logo="https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png" group-title="⚽DEPORTES ESPN SUR 🇦🇷", ESPN SUR 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://bantel-cdn4.iptvperu.tv:1935/D6Vp42/espn3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN SUR 4" tvg-logo="https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png" group-title="⚽DEPORTES ESPN SUR 🇦🇷", ESPN SUR 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://bantel-cdn4.iptvperu.tv:1935/hDp0yb/espn4.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN SUR 5" tvg-logo="https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png" group-title="⚽DEPORTES ESPN SUR 🇦🇷", ESPN SUR 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://bantel-cdn4.iptvperu.tv:1935/PNwE9t/espn5.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ESPN 1 MX" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="⚽DEPORTES ESPN MEXICO", ESPN 1 MX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218463.ts
-
-#EXTINF:-1 tvg-id="ESPN 2 MX" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="⚽DEPORTES ESPN MEXICO", ESPN 2 MX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218465.ts
-
-#EXTINF:-1 tvg-id="ESPN 3 MX" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="⚽DEPORTES ESPN MEXICO", ESPN 3 MX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-http://weib-tv-play.xyz:80/SVCable8264819i4@/sWj7BX5f66/218468.ts
-
-#EXTINF:-1 tvg-id="ESPN 4 MX" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="⚽DEPORTES ESPN MEXICO", ESPN 4 MX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b087348dcaa1bd66a86a4fc7150abc9:13fb668260b5c982f0c756aeb1ea072d
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.app.flow.com.ar&Referer=https://web.app.flow.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN4HD/default.mpd
-
-#EXTINF:-1 tvg-id="FOX SPORTS 1 MX" tvg-logo="https://i.ibb.co/n8fh45XB/fox-sports-mexico-official-logo-1-by-carwashdumpsterboy-diul2ao-fullview.png" group-title="⚽DEPORTES FOX SPORTS MX", FOX SPORTS 1 MX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2 MX " tvg-logo="https://i.ibb.co/RNpLj4w/Dise-o-sin-t-tulo-8.png" group-title="⚽DEPORTES FOX SPORTS MX", FOX SPORTS 2 MX 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
-
-#EXTINF:-1 tvg-id="FOX SPORTS 3 MX" tvg-logo="https://i.ibb.co/f0KqfQY/Dise-o-sin-t-tulo-9.png" group-title="⚽DEPORTES FOX SPORTS MX", FOX SPORTS 3 MX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
-
-#EXTINF:-1 tvg-id="FOX DEPORTES" tvg-logo="https://i.ibb.co/YBBb0NdH/s15377-ll-h15-ab.png" group-title="⚽DEPORTES FOX SPORTS MX", FOX DEPORTES
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM MX" tvg-logo="https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png" group-title="⚽DEPORTES FOX SPORTS MX", FOX SPORTS PREMIUM MX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 #EXTINF:-1 tvg-id="ÑANDEPORTETEPE TV" tvg-logo="https://i.postimg.cc/J4PRyMsf/bd166c26-5fe4-4872-9db9-731cf39fa11c.jpg" group-title="CANALES DE PARAGUAY OPCION 2", ÑANDEPORTETEPE TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5638,6 +5808,7 @@ http://goovdme.967sd1f.homes/vod/E9949E1699A142D6BAA31D026EF6A68E_media.ts
 #EXTINF:-1 tvg-id="Enemigo invisible" tvg-logo="https://image.tmdb.org/t/p/original/9NGQs6IB5DyD3lssfLX0B6YZ7yf.jpg" group-title="BÉLICA", Enemigo invisible
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://vddgcoud02.gd34fdldh.xyz/vod/2EAB8E77B2144F29874CE98A19BDC134_media.ts
+
 
 
 
