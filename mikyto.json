@@ -1,5 +1,34 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="LANC 1" tvg-logo="https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png" group-title="⚽LANC TV⚽", LANC 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=1
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+
+#EXTINF:-1 tvg-name="LANC 2" tvg-logo="https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png" group-title="⚽LANC TV⚽", LANC 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.tigosports.com.py&Referer=https://www.tigosports.com.py/&User-Agent=Mozilla/5.0
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+
+#EXTINF:-1 tvg-name="LANC 3" tvg-logo="https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png" group-title="⚽LANC TV⚽", LANC 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=1
+https://sam-py-edge05.tigo.com.py/ccur-session/699ba80226/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
+
+#EXTINF:-1 tvg-name="LANC EN VIVO" tvg-logo="https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg" group-title="⚽LANC TV⚽", LANC EN VIVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://45.170.130.224:8000/play/a04k/index.m3u8
+
 #EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.postimg.cc/0QP6WwKq/download-27.png" group-title="📺 CANALES DE PARAGUAY",ABC TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
