@@ -6,7 +6,12 @@
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
+#EXTINF:-1, America TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32392e5868873c91ca77a0406b3d32d8:0f74f66dbeda0bb43b32445ea74d2087
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn02.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd
 #EXTINF:-1  tvg-id="BravoTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" group-title="Nacionales", Bravo TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
