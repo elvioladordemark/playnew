@@ -897,6 +897,385 @@ https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
+#EXTINF:-1 ch-number="605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png" group-title="Mundo", Canal De Las Estrellas
+https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
+#EXTINF:-1 ch-number="606" tvg-id="CNN Español.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="Mundo", CNN En Español
+https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
+#EXTINF:-1 ch-number="607" tvg-id="CNN Internacional.uy" tvg-name="CNNEE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="Mundo", CNN Internacional
+https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
+#EXTINF:-1 ch-number="609" tvg-id="Deustche Welle.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/493/CH_LOGO/160/160/0/0/854020000716.png" group-title="Mundo", Deutsche Welle
+https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
+#EXTINF:-1 group-title="Mundo" ch-number="612" tvg-id="France 24 en Español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1813/CH_LOGO/160/160/0/0/85662193074124.png", France24 Español
+https://cdn.sensa.com.ar/bpk-tv/France24/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd225327cc07001ffff55bd9271b1b2f:faae6578b5c3fde01b9f41fd39696605
+#EXTINF:-1 ch-number="617" tvg-id="RAI Italia HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="Mundo", RAI Italia
+https://cdn.sensa.com.ar/bpk-tv/RAI/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+#EXTINF:-1 ch-number="619" tvg-id="Telemundo" tvg-name="Telemundo.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093073070.png" group-title="Mundo", Telemundo Internacional
+https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
+#EXTINF:-1 ch-number="622" tvg-id="TV Chile.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2761/CH_LOGO/160/160/0/0/655345470739.png" group-title="Mundo", TV Chile
+https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49c79f1d16db45b4e6671c3a7550e8fc:ac26680d5cfdcab87e4139a410b9984b
+#EXTINF:-1 ch-number="623" tvg-id="TVE.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/364/CH_LOGO/160/160/0/0/676402460759.png" group-title="Mundo", TVE
+https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
+#EXTINF:-1 group-title="Mundo" ch-number="624" tvg-id="VE PLUS TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1761/CH_LOGO/160/160/0/0/2565660807177.png", Ve Plus
+https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5746dc57cb1c26d5267d116d3f49d871:d1dc3a3a13fc3981c08a0376706b2e61
+#EXTINF:-1 group-title="Mundo" ch-number="625" tvg-id="UCL.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/160/160/0/0/62763250072541.png", UCL
+https://cdn.sensa.com.ar/bpk-tv/UCL/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+
+
+
+misiones
+
+#EXTINF:-1 ch-number="832" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/160/160/0/0/98840360071467.png" group-title="Misiones", Doce Misiones
+https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
+
+
+
+
+santa fe
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0
+#EXTINF:-1 ch-number="843" tvg-id="Rosario 3" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1301/CH_LOGO/160/160/0/0/1420770707895.png" group-title="Santa Fe", El Tres TV Rosario
+https://cdn.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
+
+
+
+regionales 
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
+#EXTINF:-1 ch-number="" tvg-id="132#Telediario Television" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/160/160/0/0/93452015074309.png" group-title="Córdoba", Telediario Televisión
+https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f9261beee045d06c325c380b9275e15:89976f64ccde3509e15e38c9196a529f
+#EXTINF:-1 group-title="Provinciales" ch-number="466" tvg-id="Multivision" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2881/CH_LOGO/160/160/0/0/73288892075202.png", Multivisión Federal
+https://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="COONET Brinkmann" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1241/CH_LOGO/160/160/0/0/42902231076974.png" group-title="Provinciales", COONET Brinkmann
+https://cdn.sensa.com.ar/output/SMT4/BRKD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="COOP PLUS Porteña" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="Provinciales", COOP PLUS Porteña
+https://cdn.sensa.com.ar/output/SMT5/PORD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Local Tacural" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1819/CH_LOGO/160/160/0/0/70000132077572.png" group-title="Provinciales", Canal 3 Tacural
+https://cdn.sensa.com.ar/output/ARR2/TacuralD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="CoopMorteros Streaming" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3968/CH_LOGO/160/160/0/0/21588335079036.png" group-title="Provinciales", CoopMorteros Streaming
+https://cdn.sensa.com.ar/output/ARR/CMSD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/243/CH_LOGO/160/160/0/0/93511500073657.png" group-title="Provinciales", Canal 50 Morteros
+https://online.coopmorteros.coop/canal50_dash/vivo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="TVPICO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2482/CH_LOGO/160/160/0/0/85617370076521.png" group-title="Provinciales", TVCO PICO
+https://cdn.sensa.com.ar/output/ARR/TVCOD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Santa Rosa La Pampa" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2483/CH_LOGO/160/160/0/0/12926473072353.png" group-title="Provinciales", CPE Santa Rosa La Pampa
+https://cdn.sensa.com.ar/output/ARR/SRLPD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Punta Alta" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/160/160/0/0/45581772073270.png" group-title="Provinciales", Punta Alta Visión
+https://cdn.sensa.com.ar/output/SMT2/CEPATVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal 19 La Pampa" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1061/CH_LOGO/160/160/0/0/79624310076902.png" group-title="Provinciales", LDM TV La Pampa
+https://cdn.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal 7 San Antonio de Areco" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/160/160/0/0/18862298077160.png" group-title="Provinciales", DBosco Televisión
+https://cdn.sensa.com.ar/output/ARR2/C7SAAD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="CableCoop Charlone" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3082/CH_LOGO/160/160/0/0/88754444078504.png" group-title="Provinciales", CableCoop Charlone
+https://cdn.sensa.com.ar/output/SMT4/CCCD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Tortuguitas" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/160/160/0/0/60976969078835.png" group-title="Provinciales", NTV Tortuguitas
+https://cdn.sensa.com.ar/output/SMT5/NTVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal 10 Rio Gallegos" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1022/CH_LOGO/160/160/0/0/31560740072137.png" group-title="Provinciales", Cable 10 Río Gallegos
+https://cdn.sensa.com.ar/output/ARR/Rio_GallegosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Rojas" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2508/CH_LOGO/160/160/0/0/11083432076534.png" group-title="Provinciales", CLYFER TV
+https://cdn.sensa.com.ar/output/ARR/CLYFERD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Deheza" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/160/160/0/0/88623159076702.png" group-title="Provinciales", CETV Canal Deheza
+https://cdn.sensa.com.ar/output/ARR/DehezaD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Gigena - SRT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2511/CH_LOGO/160/160/0/0/46132478077122.png" group-title="Provinciales", Nexos Multimedio Cooperativo
+https://cdn.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Rio Primero TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/160/160/0/0/30214768077125.png" group-title="Provinciales", Río Primero TV
+https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Luque TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2515/CH_LOGO/160/160/0/0/77974389077126.png" group-title="Provinciales", Luque TV
+https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="COVISAR - Sta Rosa" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2514/CH_LOGO/160/160/0/0/89469456077129.png" group-title="Provinciales", COVISAR - Sta Rosa
+https://cdn.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Temple TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2516/CH_LOGO/160/160/0/0/15168501077127.png" group-title="Provinciales", Temple TV
+https://cdn.sensa.com.ar/output/STAROSA/TEMPLETVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="TvCoop Posse" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2517/CH_LOGO/160/160/0/0/2990054407460.png" group-title="Provinciales", TvCoop Posse
+https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Local Colonia Caroya" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2518/CH_LOGO/160/160/0/0/12868197073593.png" group-title="Provinciales", Canal COOP Colonia Caroya
+https://cdn.sensa.com.ar/output/COR/CanalCoopD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Local Alicia sensa" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/160/160/0/0/38808379077146.png" group-title="Provinciales", Canal Cooperativo Alicia
+https://cdn.sensa.com.ar/output/LVR/CCAD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="CEOSCA-Camilo Aldao" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2522/CH_LOGO/160/160/0/0/97778346077157.png" group-title="Provinciales", CEOSCA-Camilo Aldao
+https://cdn.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="C20 Villa Maria" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2523/CH_LOGO/160/160/0/0/45821431071947.png" group-title="Provinciales", C20 Villa María
+https://cdn.sensa.com.ar/output/SMT5/C20D/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Local Las Varillas" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3042/CH_LOGO/160/160/0/0/50103492078472.png" group-title="Provinciales", STV 2 Canal - Las Varillas
+https://cdn.sensa.com.ar/output/LVR/STV2D/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="RTV Canal 2 Golcable" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2527/CH_LOGO/160/160/0/0/39411063077630.png" group-title="Provinciales", RTV Canal 2 Golcable
+https://cdn.sensa.com.ar/output/SMT5/GolcableD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Tornquist" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3342/CH_LOGO/160/160/0/0/41079403078757.png" group-title="Provinciales", CELTTV Tornquist
+https://cdn.sensa.com.ar/output/SMT3/CELTTVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Funes Fullvision" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2530/CH_LOGO/160/160/0/0/14910418077700.png" group-title="Provinciales", Funes Fullvisión
+https://cdn.sensa.com.ar/output/SMT2/FVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Pueblo San Jose" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2531/CH_LOGO/160/160/0/0/91408905077946.png" group-title="Provinciales", Canal 2 Pueblo San José
+https://cdn.sensa.com.ar/output/SMT2/PSJD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal 11 Maria Juana" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2532/CH_LOGO/160/160/0/0/35408141078125.png" group-title="Provinciales", Canal 11 María Juana
+https://cdn.sensa.com.ar/output/SMT5/MariaJuanaD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal 4 Pingüe" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2533/CH_LOGO/160/160/0/0/70000165078012.png" group-title="Provinciales", Canal 4 Pingüé
+https://cdn.sensa.com.ar/output/SMT3/C4PD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Vivencias" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/160/160/0/0/35003362076629.png" group-title="Provinciales", Vivencias TV
+https://cdn.sensa.com.ar/output/NDS/vivenciasH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Unidos Tv" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2543/CH_LOGO/160/160/0/0/49748039075506.png" group-title="Provinciales", Unidos Tv
+https://cdn.sensa.com.ar/output/NDS/unidostvH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="TV Coop Hernando" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3482/CH_LOGO/160/160/0/0/66473712078884.png" group-title="Provinciales", TV Coop Hernando
+https://cdn.sensa.com.ar/output/ARR2/HERD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="El Sauce TV Canal Local VGB" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3882/CH_LOGO/160/160/0/0/54537430079017.png" group-title="Provinciales", El Sauce TV VGB
+https://cdn.sensa.com.ar/output/ARR3/ElSauceTVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Local CEMDO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3222/CH_LOGO/160/160/0/0/59584193078619.png" group-title="Provinciales", Canal 9 Cemdo TV
+https://cdn.sensa.com.ar/output/SMT4/CMDD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal 3 Arroyito" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2941/CH_LOGO/160/160/0/0/21304890078316.png" group-title="Provinciales", Canal 3 Arroyito
+https://cdn.sensa.com.ar/output/ARR3/C3AD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Rio Tercero" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2801/CH_LOGO/160/160/0/0/56157196078230.png" group-title="Provinciales", RioTel Río Tercero
+https://cdn.sensa.com.ar/output/SMT3/RTD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Freyre" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2535/CH_LOGO/160/160/0/0/95897423078121.png" group-title="Provinciales", Canal 6 Freyre
+https://cdn.sensa.com.ar/output/ARR3/FRYD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal 2 Almafuerte" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2536/CH_LOGO/160/160/0/0/98726444077724.png" group-title="Provinciales", Canal 2 Almafuerte
+https://cdn.sensa.com.ar/output/ARR/ALMD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="General Roca" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2538/CH_LOGO/160/160/0/0/35734658076751.png" group-title="Provinciales", Cegro General Roca
+https://cdn.sensa.com.ar/output/SMT3/GRD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Villa Huidobro" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3802/CH_LOGO/160/160/0/0/32638035078994.png" group-title="Provinciales", Villa Huidobro
+https://cdn.sensa.com.ar/output/SMT2/VHD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Canal Oliva" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/160/160/0/0/29838770078011.png" group-title="Provinciales", Canal 11 Oliva
+https://cdn.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="VIVE TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3201/CH_LOGO/160/160/0/0/73160833078309.png" group-title="Provinciales", VIVE TV
+https://cdn.sensa.com.ar/output/SMT4/VIVED/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Suardi" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/160/160/0/0/86198033078075.png" group-title="Provinciales", TvCoop Suardi
+https://cdn.sensa.com.ar/output/ARR3/SADD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="IVISION TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2542/CH_LOGO/160/160/0/0/77046385073168.png" group-title="Provinciales", IVISIÓN TV
+https://6098feb5d2881.streamlock.net:443/live/smil:hls_canallocal.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Coopetel TV - El Bolson" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/160/160/0/0/11228946078364.png" group-title="Provinciales", Coopetel TV - El Bolsón
+https://cdn.sensa.com.ar/output/SMT4/CPTD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Marchi TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2528/CH_LOGO/160/160/0/0/60393547077609.png" group-title="Provinciales", Marchi TV
+https://cdn.sensa.com.ar/output/SMT2/MARCHITVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Somos Uno Chaco TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2539/CH_LOGO/160/160/0/0/39912108073157.png" group-title="Provinciales", Somos Uno Chaco TV
+https://cdn.sensa.com.ar/output/SMT3/CHTVD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+
+
+
+
+
+
+
+música
+
+#EXTINF:-1 ch-number="" tvg-id="popular" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3982/CH_LOGO/160/160/0/0/67035155079040.png" group-title="Radios", La Popu
+https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="cosquinrock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3981/CH_LOGO/160/160/0/0/71941975079039.png" group-title="Radios", Cosquín Rock
+https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="Cadena3" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3841/CH_LOGO/160/160/0/0/71241680072511.png" group-title="Radios", Cadena 3
+https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 ch-number="" tvg-id="Futurock" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4384/CH_LOGO/160/160/0/0/18277879079297.png" group-title="Radios", Futuröck
+https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+adultos
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
+#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="Playboy.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/112/CH_LOGO/160/160/0/0/8669389807114.png", Playboy TV (18+)
+https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
 
 
 
