@@ -859,3 +859,85 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 #KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+############################
+# 🌎 MUNDIALES E INTERNACIONALES
+############################
+
+#EXTINF:-1 group-title="🌎 Mundo", Canal De Las Estrellas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
+https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd|Referer=https://player.sensa.com.ar/
+
+#EXTINF:-1 group-title="🌎 Mundo", CNN En Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
+https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd|Referer=https://player.sensa.com.ar/
+
+#EXTINF:-1 group-title="🌎 Mundo", CNN Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
+https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd|Referer=https://player.sensa.com.ar/
+
+#EXTINF:-1 group-title="🌎 Mundo", Deutsche Welle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
+https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd|Referer=https://player.sensa.com.ar/
+
+#EXTINF:-1 group-title="🌎 Mundo", France 24 Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
+https://cdn.sensa.com.ar/bpk-tv/France24/default/index.mpd|Referer=https://player.sensa.com.ar/
+
+#EXTINF:-1 group-title="🌎 Mundo", RAI Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=cd225327cc07001ffff55bd9271b1b2f:faae6578b5c3fde01b9f41fd39696605
+https://cdn.sensa.com.ar/bpk-tv/RAI/default/index.mpd|Referer=https://player.sensa.com.ar/
+
+#EXTINF:-1 group-title="🌎 Mundo", Telemundo Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd|Referer=https://player.sensa.com.ar/
+
+############################
+# 📍 MISIONES
+############################
+
+#EXTINF:-1 group-title="📍 Misiones", Doce Misiones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
+
+############################
+# 📍 SANTA FE
+############################
+
+#EXTINF:-1 group-title="📍 Santa Fe", El Tres TV Rosario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
+
+############################
+# 📻 RADIOS
+############################
+
+#EXTINF:-1 group-title="📻 Radios", La Popu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
+
+#EXTINF:-1 group-title="📻 Radios", Cosquín Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+
+#EXTINF:-1 group-title="📻 Radios", Cadena 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+############################
+# 🔞 ADULTOS
+############################
+
+#EXTINF:-1 group-title="🔞 Adultos", Playboy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
+https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd|Referer=https://player.sensa.com.ar/
+
