@@ -396,165 +396,74 @@ https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd?|origin=https://web.app.flow.com.ar
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgCLHFv1/download-69.jpg",TOP TV BR
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/tgCLHFv1/download-69.jpg",TOP TV BR
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx8vpzwm/tv-clube-web.jpg",TV CLUBE WEB BR
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/Hx8vpzwm/tv-clube-web.jpg",TV CLUBE WEB BR
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrmj3xL/awtv.png",AWTV BR
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/QCrmj3xL/awtv.png",AWTV BR
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png",SBT
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png",TV BAND
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png",TV BAND
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",BAND SPORTS
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",BAND SPORTS
 https://02.arlivre.online/bandsport/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/960px-Logotipo_da_GloboNews.png",GLOBO NEWS
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/960px-Logotipo_da_GloboNews.png",GLOBO NEWS
 http://168.205.55.2:8000/play/a08v/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png",CNN BRASIL
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png",CNN BRASIL
 http://168.205.55.2:8000/play/a07q/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsNzN35D/images-1.jpg",SBT
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/LsNzN35D/images-1.jpg",SBT (ALT)
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://45.184.109.10:80/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzkPwCzX/download-43.jpg",BAND
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/WzkPwCzX/download-43.jpg",BAND (ALT)
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg",GLOBO AMAZONICA
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg",GLOBO AMAZONICA
 #EXTVLCOPT:http-referrer=https://rdcplayer.online/
 #EXTVLCOPT:http-origin=https://rdcplayer.online
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://agropesca.live/live/globoam/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg",GLOBO SP
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg",GLOBO SP
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-origin=https://embedcanaistv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://02.arlivre.online/globosp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCx32Wk/download-14.jpg",RECORD
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/GhCx32Wk/download-14.jpg",RECORD
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85wczdN9/download-32.png",REDE MINAS BR
+#EXTINF:-1 group-title="🇧🇷 CANALES BRASIL" tvg-logo="https://i.postimg.cc/85wczdN9/download-32.png",REDE MINAS BR
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w115990305_b2771072.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRwytvSP/download-70.jpg",TV MAIS BR
-#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
-#EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx6RxnRD/download-68.jpg",TELE WEB BR
-#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
-#EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ0YFxZ8/download-31.png",REDE BRASIL
-#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
-#EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CRV11NH/download-67.jpg",REDE UNIVERSO
-#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
-#EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tNmtgVx/download-30.png",TV CULTURA BR
-#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
-#EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65x9SxzP/TVBRASIL.png",TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logospng.org/download/gazeta/gazeta-2048.png",Canal TV Gazeta do Brasil
-https://live.eu-north-1b.cf.dmcdn.net/sec2(zXXSWYENk86ovtiWa01QgAC1Opm7xDMWX7C5Xt9rA56gfmMU_f9dl7E-TJ2_0uCnDCn_U1J1zGAtYZpFdcad0nNqL3wbVceMOM5McXdpVqaH5DJjQnh103BhBFGF-Iml)/dm/3/x8ttlxm/s/live-480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2gLHgYh/TVARACATI.png",TV ARACATI BRASIL
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1212361398.m3u8
-
-#EXTINF:-1 tvg-logo="https://global-fibra.com/_nuxt/img/tv_metropole_logo.f79cdf8.png",TV Metrópole do Brasil
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqSwY3hR/TV-Pop-Tv-BRASIL.png",PORTO ALEGRE 24HS BRASIL
-https://rtisoluctions.com.br/hls/test_src.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SB6wbMr/PLAYTVBRASIL.png",PLAY TV BRASIL
-https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1qjhNjQ/REDEMUNDOTVBRASIL.png",REDE MUNDO TV BRASIL
-https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w1356932459.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fz2pJkwH/XTREME-TV-BRASIL.png",XTREME TV BRASIL
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w98427384.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34c5xzJ/ANIMAXBRASIL.png",ANIMAX BRASIL
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrCZhNtF/RETROCARTOON.png",RETRO CARTOON BRASIL
-https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w309233037.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2yZhVDq/sony-one-BRASIL.png",Sony One Cinema Brasil
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwngHNsJ/CINEPIXBRASIL.png",CINEPIX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26NBvF5r/RUNTIMETVEFILMEBRASIL.png",24/7 RUN:TIME TV E FILM BRASIL
-https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g08xYXH7/RUNTIMECOMEDIA.png",24/7 RUN:TIME COMEDIA BRASIL
-https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h6PTfSh/RUNTIMEFAMILIA.png",24/7 RUN:TIME FAMILIA BRASIL
-https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDbG5RDk/TV-Cidade-10.png",TV Cidade 10 BRASIL
-https://video10.logicahost.com.br/tvcidade10/tvcidade10/chunklist_w780374670.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsWnj91n/RSSPORTSBRASIL.png",RS SPORTS BRASIL
-https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2mCZCb1/RSSPORTS4BRASIL.png",RS News Sports 4 BRASIL
-https://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Zxk84D/TVSHOWDEBOLA.png",TV SHOW DE BOLA BRASIL
-https://painel.sintonizar.tv.br:19360/tvsdbola/tvsdbola.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXbD2kG/TV-ROCK-BRASIL.png",TV ROCK BRASIL
-https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1075469669.m3u8
-
 
 
 
