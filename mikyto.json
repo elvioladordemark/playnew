@@ -576,13 +576,27 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="Brasil Deportes", PREMIERE CLUBES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://a104aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg" group-title="Brasil Deportes", SPORTV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sao_Paulo_FC_logo.svg" group-title="DEPORTES BRASIL",SP TV 1
 https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sao_Paulo_FC_logo.svg" group-title="DEPORTES BRASIL",SP TV Extra 2
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2017.png" group-title="DEPORTES BRASIL",SPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2017.png" group-title="DEPORTES BRASIL",ESPN
 https://cr7v.short.gy/live25/spn/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Television_icon.svg" group-title="DEPORTES BRASIL",Test Channel
