@@ -175,6 +175,86 @@ https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CineAr.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INCAA.png?raw=true" group-title="Argentina" ch-number="33" type="channel",Cine.AR
 https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd?|Origin=https://web.app.flow.com.ar
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.canalcoop.com.ar/_next/static/media/canal-coop.d704a2e4.png" group-title="INTERIOR DE ARGENTINA", Canal Coop Jesus MAria Cordoba
+https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.tvar.io/imagenes/canal4jujuy.png" group-title="INTERIOR DE ARGENTINA", Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="INTERIOR DE ARGENTINA", Canal 4 San Juan
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png" group-title="INTERIOR DE ARGENTINA", Canal 4 San Francisco Cordoba
+http://204.199.3.2/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png" group-title="INTERIOR DE ARGENTINA", Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGSTNsG/canal7jujuy.png" group-title="INTERIOR DE ARGENTINA", Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="INTERIOR DE ARGENTINA", Canal 7 Neuquen
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal9litoral.png" group-title="INTERIOR DE ARGENTINA", Canal 9 Litoral
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="INTERIOR DE ARGENTINA", Canal 9 Mendoza
+http://liketv.pro:80/NovaBoxtv504/JWJNnMCeFU/207931.ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRcmiYzNwzn89j7ks8I1vYHGd0oyNLWh3d_R0NFMD-WCiN-udg2juUYvOvmbuXN2HN4tErMp1AdPpQND4TMa6JQgBQGfUYWjYudy5oYj87_3tyrRgrMbtUjwIElxsTCadryU7el078PbU/s1600/canal9-rcuarto.png" group-title="INTERIOR DE ARGENTINA", Canal 9 Rio Cuarto
+https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png" group-title="INTERIOR DE ARGENTINA", Canal 11 Machagay Chaco
+https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png" group-title="INTERIOR DE ARGENTINA", Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfx5yyhaE24x9sdH6IA6q6S685kENeqwqaBg&s" group-title="INTERIOR DE ARGENTINA", Canal 22 Buenos Aires
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/34sanjuan.png" group-title="INTERIOR DE ARGENTINA", Canal 34 San juan
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal50.tv/public/images/logos/CANAL50_HD.png" group-title="INTERIOR DE ARGENTINA", Canal 50 Morteros
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://barranquerasonline.com.ar/wp-content/uploads/2018/05/unnamed.jpg" group-title="INTERIOR DE ARGENTINA", Chaco TV (720p)
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/multivisioncable.jpg" group-title="INTERIOR DE ARGENTINA", Multivision Cable
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fqf4R9T/descarga.jpg" group-title="INTERIOR DE ARGENTINA", Rtv Neuquen
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.tvar.io/imagenes/sptv32.png" group-title="INTERIOR DE ARGENTINA", Sptv San Pedro
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Z9idWrF2Zx8EbLD_pb3yTYPVZcjj3S3CHXFZeqnrPff7Lf0mC2atDCe8Tzecq6biNyIpZ735k05tEgKPuJ4menvOBplKhwsqmOWCdljr2oHLDGd4WgzZynvjHdH5kNilDfLfCDUz_iri5DrR53UKe_pfz9LpGILsVueMOeSqnwUqlopFlC_MVjlP/s135/c13-larioja.png" group-title="INTERIOR DE ARGENTINA", Canal 13 La Rioja
+https://stream.arcast.host:8443/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvocho.ar/wp-content/uploads/2024/05/teveoh2.png" group-title="INTERIOR DE ARGENTINA", TEVE OCHO CHEPES LA RIOJA
+https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="INTERIOR DE ARGENTINA", TV PUBLICA PAMPEANA
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.corpico.com.ar/static/img/tvco-vivo.png" group-title="INTERIOR DE ARGENTINA", TVCO GENERAL PICO
+https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOh/track_0_3000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/San_Luis_%2B_%28Logo_2023%29.png/revision/latest?cb=20240627181044" group-title="INTERIOR DE ARGENTINA", SAN LUIS +
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FDDBNt6WYAArZVM?format=jpg&name=4096x4096" group-title="INTERIOR DE ARGENTINA", CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
 #EXTINF:-1 tvg-id="Encuentro.uy" tvg-name="Encuentro.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Argentina" ch-number="34" type="channel",Encuentro
@@ -314,6 +394,107 @@ https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://git.io/JOTOg" group-title="Deportes" ch-number="100" type="channel",DeporTV
 https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd?|origin=https://web.app.flow.com.ar
+
+
+
+############################
+# 🇧🇷 CANALES DE BRASIL
+############################
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgCLHFv1/download-69.jpg" group-title="🇧🇷 BRASIL",TOP TV BR
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx8vpzwm/tv-clube-web.jpg" group-title="🇧🇷 BRASIL",TV CLUBE WEB BR
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrmj3xL/awtv.png" group-title="🇧🇷 BRASIL",AWTV BR
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png" group-title="🇧🇷 BRASIL",SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="🇧🇷 BRASIL",TV BAND
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="🇧🇷 DEPORTES",BAND SPORTS
+https://02.arlivre.online/bandsport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/960px-Logotipo-da_GloboNews.png" group-title="🇧🇷 NOTICIAS",GLOBO NEWS
+http://168.205.55.2:8000/play/a08v/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png" group-title="🇧🇷 NOTICIAS",CNN BRASIL
+http://168.205.55.2:8000/play/a07q/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsNzN35D/images-1.jpg" group-title="🇧🇷 BRASIL",SBT (ALT)
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+http://45.184.109.10:80/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzkPwCzX/download-43.jpg" group-title="🇧🇷 BRASIL",BAND
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg" group-title="🇧🇷 BRASIL",GLOBO AMAZONICA
+#EXTVLCOPT:http-referrer=https://rdcplayer.online/
+#EXTVLCOPT:http-origin=https://rdcplayer.online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+https://agropesca.live/live/globoam/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg" group-title="🇧🇷 BRASIL",GLOBO SP
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+#EXTVLCOPT:http-origin=https://embedcanaistv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+https://02.arlivre.online/globosp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCx32Wk/download-14.jpg" group-title="🇧🇷 BRASIL",RECORD
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tNmtgVx/download-30.png" group-title="🇧🇷 CULTURA",TV CULTURA BR
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65x9SxzP/TVBRASIL.png" group-title="🇧🇷 BRASIL",TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SB6wbMr/PLAYTVBRASIL.png" group-title="🇧🇷 ENTRETENIMIENTO",PLAY TV BRASIL
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34c5xzJ/ANIMAXBRASIL.png" group-title="🇧🇷 INFANTIL",ANIMAX BRASIL
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrCZhNtF/RETROCARTOON.png" group-title="🇧🇷 INFANTIL",RETRO CARTOON
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w309233037.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwngHNsJ/CINEPIXBRASIL.png" group-title="🇧🇷 CINE",CINEPIX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26NBvF5r/RUNTIMETVEFILMEBRASIL.png" group-title="🇧🇷 CINE",RUNTIME TV
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h6PTfSh/RUNTIMEFAMILIA.png" group-title="🇧🇷 FAMILIA",RUNTIME FAMILIA
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsWnj91n/RSSPORTSBRASIL.png" group-title="🇧🇷 DEPORTES",RS SPORTS
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXbD2kG/TV-ROCK-BRASIL.png" group-title="🇧🇷 MUSICA",TV ROCK
+https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1075469669.m3u8
+
+
 
 
 
