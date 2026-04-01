@@ -420,6 +420,103 @@ https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTINF:-1 tvg-id="VTV Plus HD.uy" tvg-name="VTV Plus Uruguay" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="Uruguay" ch-number="122" type="channel",VTV Plus Uruguay
 https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd?|origin=https://web.app.flow.com.ar
 
+
+
+############### ⚽ DEPORTES DIRECTV ARG ################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="DEPORTES DIRECTV", DIRECTV SPORTS
+http://190.108.89.228:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="DEPORTES DIRECTV", DIRECTV SPORTS OPC 2
+http://104.238.205.28:9090/278758_.m3u8
+
+#EXTVLCOPT:http-user-agent=MdHtVBR8NUmx22vgP29hCQiA4AUCLwet68v247X2QZpf3m6SBjRCkcCjxyythUUEdzF6gMUHb91aWbPRcfWaCwEpQjMrv0yBvbLCdXD4uWmPy8n2eq2DBEq3046eaH2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="DEPORTES DIRECTV", DIRECTV SPORTS 2
+http://n8a6z9rk.top/929/hvjfzv6nrzd87d2hk.m3u8
+
+#EXTVLCOPT:http-user-agent=PLPro/8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGy1cnLP/directv-sports2.png" group-title="DEPORTES DIRECTV", DIRECTV SPORTS + OPC 2
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+
+############### ⚽ DEPORTES VARIADOS ################
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y4zbdw8/download-2026-03-25T121135-840.jpg" group-title="DEPORTES", SKY LA LIGA
+https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHsyq36G/descarga-6.jpg" group-title="DEPORTES", BEIN SPORTS EXTRA Ñ
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHsyq36G/descarga-6.jpg" group-title="DEPORTES", BEIN SPORTS EXTRA Ñ OPC 2
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYHrVXBx/download-2026-03-12T134729-824.jpg" group-title="DEPORTES", TUDN SPORTS
+http://aztkplay.pro:8080/live/An28Mi46/Q4FqDT6VyU/319544.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDX3WH6k/Win-Sports2018.png" group-title="DEPORTES", WIN SPORTS
+http://live2.superteve.com:33527/livetv/9Wu6os8Dmg/369
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDX3WH6k/Win-Sports2018.png" group-title="DEPORTES", WIN SPORTS+
+http://190.60.37.118:4000/play/a0bw
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg" group-title="DEPORTES", RALLY TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
+
+
+############### 📺 TELEMUNDO Y UNIVERSO ################
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png" group-title="TELEMUNDO", TELEMUNDO NOTICIAS
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png" group-title="TELEMUNDO", TELEMUNDO 51
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png" group-title="TELEMUNDO", TELEMUNDO 52
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png" group-title="TELEMUNDO", TELEMUNDO ACCION
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDQGfqyR/images-7.jpg" group-title="TELEMUNDO", UNIVERSO 1 FULL
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+
+############### 🇵🇾 INTERIOR PARAGUAY ################
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTwCLz0S/Whats-App-Image-2025-04-09-at-17-45-28.jpg" group-title="PARAGUAY", ALBERDI CANAL 5
+http://181.78.27.128:8000/play/a05p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/fogertycapiata/tvpataguaya/blob/main/dfdfdfdf554.png?raw=true" group-title="PARAGUAY", REGIONAL TV YAGUARON
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/fogertycapiata/tvpataguaya/blob/main/WhatsApp%20Image%202025-07-03%20at%2012.58.12.jpeg?raw=true" group-title="PARAGUAY", YAGUARON RADIO TV
+https://video.hostingcaaguazu.com:19360/regionalnetworkstv/regionalnetworkstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png" group-title="PARAGUAY", MI TV
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY", SUR TV
+https://edge-mix01-cte.cvattv.com.ar/.../SUR_TV_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrSXkZnY/descarga-2.png" group-title="PARAGUAY", UNIVERSO TV
+https://edge-mix01-cte.cvattv.com.ar/.../Universo.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png" group-title="PARAGUAY", REPUBLICA TV
+https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXhyvZGC/R-1.png" group-title="PARAGUAY", 5 DIAS PY
+https://edge-mix01-cte.cvattv.com.ar/.../5_Dias_PY.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLvq6nfQ/logo-retina-01.png" group-title="PARAGUAY", UNION TV
+https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediosenparaguay.com/gallery_gen/cae134f3e8f4e494d2759fd7fc84854c_300x300_fill.jpg" group-title="PARAGUAY", YAGUARON TV
+https://video.hostingcaaguazu.com:19360/regionalnetworkstv/regionalnetworkstv.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9e09f0a3ecb932582e0f3bc6a6194c8d&key=6d2363b7ba7680ea3bf6dcbad1efa5bf
 #EXTINF:-1 tvg-id="Baby TV.uy" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="Infantil" ch-number="200" type="channel",Baby TV
