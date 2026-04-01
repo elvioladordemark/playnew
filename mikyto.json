@@ -573,6 +573,40 @@ https://edge-live31-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 
 
 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sao_Paulo_FC_logo.svg" group-title="DEPORTES BRASIL",SP TV 1
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Sao_Paulo_FC_logo.svg" group-title="DEPORTES BRASIL",SP TV Extra 2
+https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2017.png" group-title="DEPORTES BRASIL",SPN
+https://cr7v.short.gy/live25/spn/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Television_icon.svg" group-title="DEPORTES BRASIL",Test Channel
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Premiere_FC_logo.png" group-title="DEPORTES BRASIL",Premiere 6
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Premiere_FC_logo.png" group-title="DEPORTES BRASIL",Premiere 5
+https://cr7v.short.gy/Canal4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Premiere_FC_logo.png" group-title="DEPORTES BRASIL",Premiere 4
+https://cr7v.short.gy/Canal3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Premiere_FC_logo.png" group-title="DEPORTES BRASIL",Premiere 3
+https://cr7v.short.gy/Canal2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Caz%C3%A9TV_logo.png" group-title="DEPORTES BRASIL",CazeTV 720p
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Caz%C3%A9TV_logo.png" group-title="DEPORTES BRASIL",CazeTV 1080p
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+
 ############### ⚽ DEPORTES DIRECTV ARG ################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="DEPORTES DIRECTV", DIRECTV SPORTS
