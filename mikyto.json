@@ -396,102 +396,163 @@ https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd?|origin=https://web.app.flow.com.ar
 
 
-
-############################
-# 🇧🇷 CANALES DE BRASIL
-############################
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgCLHFv1/download-69.jpg" group-title="🇧🇷 BRASIL",TOP TV BR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgCLHFv1/download-69.jpg",TOP TV BR
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx8vpzwm/tv-clube-web.jpg" group-title="🇧🇷 BRASIL",TV CLUBE WEB BR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx8vpzwm/tv-clube-web.jpg",TV CLUBE WEB BR
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrmj3xL/awtv.png" group-title="🇧🇷 BRASIL",AWTV BR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrmj3xL/awtv.png",AWTV BR
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png" group-title="🇧🇷 BRASIL",SBT
+#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="🇧🇷 BRASIL",TV BAND
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png",TV BAND
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png" group-title="🇧🇷 DEPORTES",BAND SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",BAND SPORTS
 https://02.arlivre.online/bandsport/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/960px-Logotipo-da_GloboNews.png" group-title="🇧🇷 NOTICIAS",GLOBO NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/960px-Logotipo_da_GloboNews.png",GLOBO NEWS
 http://168.205.55.2:8000/play/a08v/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png" group-title="🇧🇷 NOTICIAS",CNN BRASIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png",CNN BRASIL
 http://168.205.55.2:8000/play/a07q/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsNzN35D/images-1.jpg" group-title="🇧🇷 BRASIL",SBT (ALT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsNzN35D/images-1.jpg",SBT
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://45.184.109.10:80/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzkPwCzX/download-43.jpg" group-title="🇧🇷 BRASIL",BAND
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzkPwCzX/download-43.jpg",BAND
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg" group-title="🇧🇷 BRASIL",GLOBO AMAZONICA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg",GLOBO AMAZONICA
 #EXTVLCOPT:http-referrer=https://rdcplayer.online/
 #EXTVLCOPT:http-origin=https://rdcplayer.online
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://agropesca.live/live/globoam/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg" group-title="🇧🇷 BRASIL",GLOBO SP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxJvTL9/download-17.jpg",GLOBO SP
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-origin=https://embedcanaistv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://02.arlivre.online/globosp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCx32Wk/download-14.jpg" group-title="🇧🇷 BRASIL",RECORD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCx32Wk/download-14.jpg",RECORD
 #EXTVLCOPT:http-referrer=https://embedtv-2.icu/
 #EXTVLCOPT:http-origin=https://embedtv-2.icu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tNmtgVx/download-30.png" group-title="🇧🇷 CULTURA",TV CULTURA BR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85wczdN9/download-32.png",REDE MINAS BR
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w115990305_b2771072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRwytvSP/download-70.jpg",TV MAIS BR
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx6RxnRD/download-68.jpg",TELE WEB BR
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ0YFxZ8/download-31.png",REDE BRASIL
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CRV11NH/download-67.jpg",REDE UNIVERSO
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tNmtgVx/download-30.png",TV CULTURA BR
+#EXTVLCOPT:http-referrer=https://embedtv-2.icu/
+#EXTVLCOPT:http-origin=https://embedtv-2.icu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65x9SxzP/TVBRASIL.png" group-title="🇧🇷 BRASIL",TV BRASIL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65x9SxzP/TVBRASIL.png",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SB6wbMr/PLAYTVBRASIL.png" group-title="🇧🇷 ENTRETENIMIENTO",PLAY TV BRASIL
+#EXTINF:-1 tvg-logo="https://logospng.org/download/gazeta/gazeta-2048.png",Canal TV Gazeta do Brasil
+https://live.eu-north-1b.cf.dmcdn.net/sec2(zXXSWYENk86ovtiWa01QgAC1Opm7xDMWX7C5Xt9rA56gfmMU_f9dl7E-TJ2_0uCnDCn_U1J1zGAtYZpFdcad0nNqL3wbVceMOM5McXdpVqaH5DJjQnh103BhBFGF-Iml)/dm/3/x8ttlxm/s/live-480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2gLHgYh/TVARACATI.png",TV ARACATI BRASIL
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1212361398.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-fibra.com/_nuxt/img/tv_metropole_logo.f79cdf8.png",TV Metrópole do Brasil
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqSwY3hR/TV-Pop-Tv-BRASIL.png",PORTO ALEGRE 24HS BRASIL
+https://rtisoluctions.com.br/hls/test_src.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SB6wbMr/PLAYTVBRASIL.png",PLAY TV BRASIL
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34c5xzJ/ANIMAXBRASIL.png" group-title="🇧🇷 INFANTIL",ANIMAX BRASIL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1qjhNjQ/REDEMUNDOTVBRASIL.png",REDE MUNDO TV BRASIL
+https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w1356932459.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fz2pJkwH/XTREME-TV-BRASIL.png",XTREME TV BRASIL
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w98427384.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W34c5xzJ/ANIMAXBRASIL.png",ANIMAX BRASIL
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrCZhNtF/RETROCARTOON.png" group-title="🇧🇷 INFANTIL",RETRO CARTOON
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrCZhNtF/RETROCARTOON.png",RETRO CARTOON BRASIL
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w309233037.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwngHNsJ/CINEPIXBRASIL.png" group-title="🇧🇷 CINE",CINEPIX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2yZhVDq/sony-one-BRASIL.png",Sony One Cinema Brasil
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwngHNsJ/CINEPIXBRASIL.png",CINEPIX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26NBvF5r/RUNTIMETVEFILMEBRASIL.png" group-title="🇧🇷 CINE",RUNTIME TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26NBvF5r/RUNTIMETVEFILMEBRASIL.png",24/7 RUN:TIME TV E FILM BRASIL
 https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h6PTfSh/RUNTIMEFAMILIA.png" group-title="🇧🇷 FAMILIA",RUNTIME FAMILIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g08xYXH7/RUNTIMECOMEDIA.png",24/7 RUN:TIME COMEDIA BRASIL
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h6PTfSh/RUNTIMEFAMILIA.png",24/7 RUN:TIME FAMILIA BRASIL
 https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsWnj91n/RSSPORTSBRASIL.png" group-title="🇧🇷 DEPORTES",RS SPORTS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDbG5RDk/TV-Cidade-10.png",TV Cidade 10 BRASIL
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/chunklist_w780374670.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsWnj91n/RSSPORTSBRASIL.png",RS SPORTS BRASIL
 https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXbD2kG/TV-ROCK-BRASIL.png" group-title="🇧🇷 MUSICA",TV ROCK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2mCZCb1/RSSPORTS4BRASIL.png",RS News Sports 4 BRASIL
+https://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Zxk84D/TVSHOWDEBOLA.png",TV SHOW DE BOLA BRASIL
+https://painel.sintonizar.tv.br:19360/tvsdbola/tvsdbola.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXbD2kG/TV-ROCK-BRASIL.png",TV ROCK BRASIL
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1075469669.m3u8
 
 
@@ -2356,12 +2417,87 @@ https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
-############################
-# 🔞 ADULTOS
-############################
+#EXTINF:-1 tvg-name="CANELA CINEMA 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", CANELA CINEMA 27/7
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 group-title="🔞 Adultos", Playboy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
-https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd|Referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-name="RETRO PLUS 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", RETRO PLUS 27/7
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CINE PLEX 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", CINE PLEX 27/7
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FILM RISE 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", FILM RISE 27/7
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8
+
+#EXTINF:-1 tvg-name="CRJNGO 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", CRJNGO 27/7
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FREE TV ACCION 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", FREE TV ACCION 27/7
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-name="FREE TV FAMILIA 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", FREE TV FAMILIA 27/7
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-name="VALLE NUEVO TV 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", VALLE NUEVO TV 27/7
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ACCION MEXICANA 27/7" tvg-logo="https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg" group-title="CINE", ACCION MEXICANA 27/7
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MIEDO TV 27/7" tvg-logo="https://i.postimg.cc/28zVt46n/download-84.jpg" group-title="HALLOWEEN", 🎃MIEDO TV
+https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-MI-MIEDO-CANAL-SPA/sofastplayout/bf03a5cc-e672-9612-ef64-5296cfdb_HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GRITOS TV 27/7" tvg-logo="https://i.postimg.cc/q7CRKwbr/download-83.jpg" group-title="HALLOWEEN", 🎃GRITOS TV
+https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-TRINIAN-GRITOS-TV-SPA/vglive-sk-187404/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HORROR TV 27/7" tvg-logo="https://i.postimg.cc/FsB5qcFk/download-87.jpg" group-title="HALLOWEEN", 🎃HORROR TV
+https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/master.m3u8
+
+#EXTINF:-1 tvg-name="CINE ESPANTO" tvg-logo="https://i.postimg.cc/652RCxCP/download-89.jpg" group-title="HALLOWEEN", CINE ESPANTO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126
+
+#EXTINF:-1 tvg-name="MYTIME ESPAÑA" tvg-logo="https://i.postimg.cc/htDPCg20/download-82.jpg" group-title="CINE", MYTIME ESPAÑA
+https://appletree-mytime-samsungmexico.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-name="RUNTIME PELIS 1" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME PELIS 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+
+#EXTINF:-1 tvg-name="RUNTIME PELIS 2" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME PELIS 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2218
+
+#EXTINF:-1 tvg-name="RUNTIME ACCION" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME ACCION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+
+#EXTINF:-1 tvg-name="RUNTIME FAMILIA" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME FAMILIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6118
+
+#EXTINF:-1 tvg-name="RUNTIME COMEDIA" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME COMEDIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6127
+
+#EXTINF:-1 tvg-name="RUNTIME ESPANTO" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME ESPANTO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126
+
+#EXTINF:-1 tvg-name="RUNTIME CRIMEN" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME CRIMEN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129
+
+#EXTINF:-1 tvg-name="RUNTIME ROMANCE" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME ROMANCE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119
+
+#EXTINF:-1 tvg-name="RUNTIME SERIES" tvg-logo="https://i.postimg.cc/xjk3pVXt/download-85.jpg" group-title="RUNTIME", RUNTIME SERIES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
+
+#EXTINF:-1 tvg-name="SONY CINE" tvg-logo="https://i.postimg.cc/pX47JBKH/download-19.jpg" group-title="SONY", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="SONY ONE COMEDIAS" tvg-logo="https://i.postimg.cc/pX47JBKH/download-19.jpg" group-title="SONY", SONY ONE COMEDIAS
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY ONE NOVELAS" tvg-logo="https://i.postimg.cc/pX47JBKH/download-19.jpg" group-title="SONY", SONY ONE NOVELAS
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY ONE COMPETENCIAS" tvg-logo="https://i.postimg.cc/pX47JBKH/download-19.jpg" group-title="SONY", SONY ONE COMPETENCIAS
+https://spt-competencias-1-us.canelatv.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY ONE EXITOS" tvg-logo="https://i.postimg.cc/pX47JBKH/download-19.jpg" group-title="SONY", SONY ONE EXITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/playlist.m3u8
 
