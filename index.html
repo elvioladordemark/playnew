@@ -1,69 +1,59 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Panel de Administración - Agregar Canal de TV</title>
-    <link rel="stylesheet" href="styles.css">
+  <title>TV</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    #video-container {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow: hidden;
+    }
+    #video {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
 </head>
 <body>
-    <h1>Agregar Canal de TV</h1>
-    <form id="canalForm" action="process.php" method="POST">
-        <label for="enlace">Enlace del Canal (m3u8):</label><br>
-        <input type="text" id="enlace" name="enlace" required><br><br>
+  <div id="video-container">
+    <video id="video" controls autoplay></video>
+  </div>
 
-        <label for="categoria">Categoría del Canal:</label><br>
-        <select id="categoria" name="categoria" required>
-            <option value="🏆 TIGO SPORTS EVENTOS">🏆 TIGO SPORTS EVENTOS</option>
-            <option value="📺 PELICULAS">📺 PELICULAS</option>
-            <option value="🎶 MUSICA">🎶 MUSICA</option>
-            <option value="🌎 NOTICIAS">🌎 NOTICIAS</option>
-            <option value="⚽ DEPORTES">⚽ DEPORTES</option>
-        </select><br><br>
-
-        <label for="logo">Enlace del Logo del Canal:</label><br>
-        <input type="text" id="logo" name="logo" required><br><br>
-
-        <label for="nombre">Nombre del Canal:</label><br>
-        <input type="text" id="nombre" name="nombre" required><br><br>
-
-        <label for="tieneClaves">¿El canal requiere claves?</label><br>
-        <select id="tieneClaves" name="tieneClaves" required>
-            <option value="si" selected>Sí</option>
-            <option value="no">No</option>
-        </select><br><br>
-
-        <div id="claveInput">
-            <label for="key">Clave del Canal:</label><br>
-            <input type="text" id="key" name="key" required><br><br>
-        </div>
-
-        <button type="submit">Agregar Canal</button>
-    </form>
-
-    <script>
-        // Función para mostrar/ocultar el campo de clave en función de la selección
-        function toggleClaveInput() {
-            var tieneClaves = document.getElementById('tieneClaves').value;
-            var claveInput = document.getElementById('claveInput');
-            var keyField = document.getElementById('key');
-
-            if (tieneClaves === 'si') {
-                claveInput.style.display = 'block';
-                keyField.required = true;
-            } else {
-                claveInput.style.display = 'none';
-                keyField.required = false;
-            }
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.7/shaka-player.compiled.min.js"></script>
+  <script>
+    (async () => {
+      try {
+        await shaka.polyfill.installAll();
+        if (!shaka.Player.isBrowserSupported()) {
+          throw new Error('Browser not supported');
         }
 
-        // Inicializa la visibilidad del campo de clave al cargar la página
-        window.onload = function() {
-            toggleClaveInput(); // Llama a la función al cargar para ajustar la visibilidad inicial
+        const video = document.getElementById('video');
+        const player = new shaka.Player(video);
+
+        const drmConfig = {
+          clearKeys: {
+            '51c0ef23b17297e5c01cd7f36dd0a6ce':'8823f713ba6fdb9bbe0a2ad82d309a4b'
+          }
         };
 
-        // Agrega el event listener para cambiar la visibilidad del campo cuando cambie la selección
-        document.getElementById('tieneClaves').addEventListener('change', toggleClaveInput);
-    </script>
+        await player.configure({
+          drm: drmConfig
+        });
+
+        await player.load('https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd');
+
+        console.log('Video loaded successfully!');
+      } catch (error) {
+        console.error('Error loading video:', error);
+      }
+    })();
+  </script>
 </body>
 </html>
